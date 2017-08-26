@@ -1,4 +1,6 @@
 # ABOUT THE MYDATA DECLARATION
+[Initial Relese v1.0](https://github.com/mydataglobal/declaration/releases/tag/v1.0) published and opened for signing Aug 24th 2017 at: [https://mydata.org/declaration](https://mydata.org/declaration)
+[![DOI](https://zenodo.org/badge/101211688.svg)](https://zenodo.org/badge/latestdoi/101211688)
 
 
 ## WHERE THE DECLARATION COMES FROM
