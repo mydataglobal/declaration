@@ -32,7 +32,7 @@ This Declaration is the founding text of the "MyData Global Network" (whose name
 
 The published version of the declaration is now stable and can be signed by individuals and organisations.
 
-In the future, new versions of the text will certainly need to be written based on experience, as well as on the advancement of technology, markets, uses and regulations. A set of issues has explicitly been left open for future discussions <LINK?>. The next MyData community meeting (Aarhus, Denmark, Nov. 23-24, 2017) will define a formal review process.
+In the future, new versions of the text will certainly need to be written based on experience, as well as on the advancement of technology, markets, uses and regulations. A set of issues has explicitly been left open for future discussions (see the link in the Participate-section below). The next MyData community meeting (Aarhus, Denmark, Nov. 23-24, 2017) will define a formal review process.
 
 Also, a discussion is already underway as to how selective and binding this Declaration should be, so that organisations can’t just sign it without actually committing to implementing it. We want the Declaration to be open for all to sign, but we also want it to herald a significant change in the "normal" way in which all organisations handle personal data.
 
@@ -43,7 +43,7 @@ Also, a discussion is already underway as to how selective and binding this Decl
 
 * Use the Declaration to further your own projects and intentions. Base your trust framework, or your terms of services, on it. Use it to lobby and convince clients, partners, stakeholders etc. And please, let us know, so we can all benefit from your experience!
 
-The MyData Declaration’s future versions will be produced in an open manner and everyone is welcome to contribute. The conversation takes place on the MyData Declaration mailing list <URL to subscribe / Archives>. This list is currently facilitated by Antti "Jogi" Poikola, Daniel Kaplan and Tanel Mällo. A list of [issues left open in the v. 1.0 of the declaration can be accessed here](https://docs.google.com/spreadsheets/d/1HpF3_KGCoTb8GohYcK-OSLQ-Wo1djyPR1wtDzR0hwOY/edit#gid=0). The next MyData community meeting (Aarhus, Denmark, Nov. 23-24, 2017) will define a formal review process.
+The MyData Declaration’s future versions will be produced in an open manner and everyone is welcome to contribute. The conversation takes place on the [MyData Declaration mailing list](https://list.kapsi.fi/listinfo/declaration_mydata_org). This list is currently facilitated by Antti "Jogi" Poikola, Daniel Kaplan and Tanel Mällo. A list of [issues left open in the v. 1.0 of the declaration can be accessed here](https://docs.google.com/spreadsheets/d/1HpF3_KGCoTb8GohYcK-OSLQ-Wo1djyPR1wtDzR0hwOY/edit#gid=0). The next MyData community meeting (Aarhus, Denmark, Nov. 23-24, 2017) will define a formal review process.
 
 
 ## CONTRIBUTORS
