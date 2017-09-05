@@ -48,6 +48,15 @@ Also, a discussion is already underway as to how selective and binding this Decl
 The MyData Declaration’s future versions will be produced in an open manner and everyone is welcome to contribute. The conversation takes place on the [MyData Declaration mailing list](https://list.kapsi.fi/listinfo/declaration_mydata_org). This list is currently facilitated by Antti "Jogi" Poikola, Daniel Kaplan and Tanel Mällo. A list of [issues left open in the v. 1.0 of the declaration can be accessed here](https://docs.google.com/spreadsheets/d/1HpF3_KGCoTb8GohYcK-OSLQ-Wo1djyPR1wtDzR0hwOY/edit#gid=0). The next MyData community meeting (Aarhus, Denmark, Nov. 23-24, 2017) will define a formal review process.
 
 
+## TRANSLATIONS
+
+We are happy te receive translations of the MyData Declaration in different languages. We will update the declaration website with new language versions just before the [Aarhus meeting (Nov. 23.-24. 2017)](https://mydata.org/meetings/). 
+
+If you can use git, clone the [MyData Declaration repository](https://github.com/mydataglobal/declaration.git), add your translation under `declaration/1.0/languagecode/index.markdown` eg `declaration/1.0/FR/index.markdown` for French, then submit a pull request.
+
+More traditionally without git knowledge you can simply [download the original english version here](https://raw.githubusercontent.com/mydataglobal/declaration/master/1.0/EN/index.markdown), translate it, and send to declaration@mydata.org.
+
+
 ## CONTRIBUTORS
 
 The following contributors took part in workshops and/or provided comments to the initial versions (1.0) of the declaration:
