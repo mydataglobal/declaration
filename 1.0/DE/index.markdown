@@ -82,17 +82,17 @@ We want individuals to be able to **securely manage their personal data** in the
 
 The portability of personal data, that allows individuals to obtain and reuse their personal data for their own purposes and across different services, is the key to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
 
-We want to empower individuals to **effectively port their personal data**, both by downloading it to their personal devices, and by transmitting it to other services. We intend to help Data Sources make these data available securely and easily, in a structured, commonly-used and machine-readable format. This applies to all personal data regardless of the legal basis (contract, consent, legitimate interest, etc.) of data collection, with possible exceptions for enriched data.
+We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the legal basis (contract, consent, legitimate interest, etc.) of data collection, with possible exceptions for enriched data.
 
-### 3.5 TRANSPARENCY AND ACCOUNTABILITY
+### 3.5 TRANSPARENCY UND VERANTWORTLICHKEIT
 
-Organisations that use a person’s data should say what they do with them and why, and should do what they say. They should take responsibility for intended, as well as unintended, consequences of holding and using personal data, including, but not limited to, security incidents, and allow individuals to call them out on this responsibility.
+Organisations that use a person’s data sollen sagen was sie mit ihnen tun und warum, und sollen machen was sie sagen. what they do with them and why, and should do what they say. They should take responsibility for intended, as well as unintended, consequences of holding and using personal data, including, but not limited to, security incidents, and allow individuals to call them out on this responsibility.
 
-We want to make sure that **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create easy to use and safe channels for individuals to **see and control what happens to their data**, to alert them of possible issues, and to challenge algorithm-based decisions.
+Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create easy to use and safe channels for individuals to **see and control what happens to their data**, to alert them of possible issues, and to challenge algorithm-based decisions.
 
 ### 3.6 INTEROPERABILITY
 
-The purpose of interoperability is to decrease friction in the data flow from data sources to data using services, while eliminating the possibilities of data lock-in. It should be achieved by continuously driving towards **common business practices and technical standards**.
+Der Sinn von interoperability is to decrease friction in the data flow from data sources to data using services, while eliminating the possibilities of data lock-in. It should be achieved by continuously driving towards **common business practices and technical standards**.
 
 In order to maximise the positive effects of open ecosystems, we will continuously work towards interoperability of data, open APIs, protocols, applications and infrastructure, so that all personal data are **portable and reusable**, without losing user control. We will build upon commonly accepted standards, ontologies, libraries and schemas, or help develop new ones if necessary. 
 
