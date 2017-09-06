@@ -1,9 +1,9 @@
 ---
-_Wir sind Unternehmer, engagierte Bürger, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über die Jahre haben wir unterschiedliche Begriffe verwendet für unser Tun, MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel: **Einzelne ermächtigen mit ihren personenbezogenen Daten, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
+_Wir sind Unternehmer, engagierte Bürger, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über mehrere Jahre haben wir mit ganz unterschiedliche Begriffen für unser Tun verwendet: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel getritten: **Einzelne ermächtigen mit ihren personenbezogenen Daten, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
 
 _In den vergangenen Jahren haben wir zusammen ein Netzwerk geschaffen, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz sich treffen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
-Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Wirkung auf Einzelene, Gesellschaft und Wirtschaft nachzuweisen. It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Wirkung auf Einzelne, Gesellschaft und Wirtschaft nachzuweisen. It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
@@ -15,25 +15,25 @@ Today, the balance of power is massively tilted towards organisations, who alone
 
 * Selbstbestimmung, that is achieved, not only by legal protection, but also by proactive actions to share the power of data with individuals;
 
-* Maximising the collective benefits of personal data, by fairly sharing them between organisations, individuals and society.
+* Maximieren des gesellschaftlichen Nutzen personenbezogener Daten durch faires Teilen zwischen Organisationen, Einzelnen und Gesellschaft
 
 ## 1. MYDATA Verschiebungen: WAS ANDERS WERDEN MUSS
 
 Our overriding goal is to empower individuals to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
 
-### 1.1. FROM FORMAL TO ACTIONABLE RIGHTS
+### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In many countries, individuals have enjoyed legal data protection for decades, yet their rights have remained mostly formal: little known, hard to enforce, and often obscured by corporate practices. We want true transparency and truly informed consent to become the new normal for when people and organisations interact. We intend access and redress, portability, and the right to be forgotten, to become "one-click rights": rights that are as simple and efficient to use as today’s and tomorrow’s best online services.
+In vielen Ländern, individuals have enjoyed gesetzlichen Datenschutz seit Jahrzehnten, doch ihre Rechte sind weitgehend eine Formsache geblieben: wenig bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität im Zusammenspiel von Menschen und Organisationen. Wir wollen Zugang, Redress, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte die einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
 
-### 1.2. FROM DATA PROTECTION TO DATA EMPOWERMENT
+### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
 Data protection regulation and corporate ethics codes are designed to protect people from abuse and misuse of their personal data by organisations. While these will remain necessary, we intend to change common practices towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
 
-### 1.3. FROM CLOSED TO OPEN ECOSYSTEMS
+### 1.3. VON ISOLIERTEN ZU OFFENEN ÖKOSYSTEMEN
 
 Today’s data economy creates network effects favoring a few platforms able to collect and process the largest masses of personal data. These platforms are locking up markets, not just for their competitors, but also for most businesses who risk losing direct access to their customers. By letting individuals control what happens to their data, we intend to create a truly free flow of data - freely decided by individuals, free from global choke points - and to create balance, fairness, diversity and competition in the digital economy.
 
-## 2. MYDATA ROLES: WHO DOES WHAT
+## 2. MYDATA ROLLEN: WER MACHT WAS
 
 _Please note: "**Roles**" are not “**Actors**” an individual or organisation may fulfill one or more roles at once._
 
