@@ -1,11 +1,11 @@
 ---
-_We are entrepreneurs, activists, academics, listed corporations, public agencies, and developers. For years, we’ve been using different words for what we do – MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) etc, while sharing a common goal: **to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations.**_
+_Wir sind Unternehmer, Engagierte, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über all die Jahre haben wir unterschiedliche Begriffe verwendet für unser Tun: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und ein gemeinsames Ziel verfolgt: **Individuen ermächtigen mit ihren personenbezogenen Daten, und somit für sie selbst und in ihren Verbindungen Wissen zu generieren, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zu interagieren**_
 
-_Together, in recent years, we have formed a network whose participants share experience, develop common projects, meet at the MyData conference, and take part in collective endeavours towards a human-centric approach to personal data._
+_Together, in recent years, we have formed a network whose participants Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz sich treffen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
 It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
 
-# DECLARATION OF MYDATA PRINCIPLES
+# Erklärung der MYDATA GRUNDSÄTZE
 
 As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of their benefits.
 
@@ -43,8 +43,7 @@ _Please note: "**Roles**" are not “**Actors**” an individual or organisation
 
 An individual that manages the use of their own personal data, for their own purposes, and maintains relationships with other individuals, services or organisations.
 
-### DATA SOURCE
-
+### DATENQUELLEN
 A data source collects and processes personal data which the other roles (including Persons) may wish to access and use.
 
 ### DATA USING SERVICE
