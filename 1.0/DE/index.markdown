@@ -1,9 +1,9 @@
 ---
-_Wir sind Unternehmer, Engagierte, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über die Jahre haben wir unterschiedliche Begriffe verwendet für unser Tun: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel: **Einzelne ermächtigen mit ihren personenbezogenen Daten, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
+_Wir sind Unternehmer, Engagierte, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über die Jahre haben wir unterschiedliche Begriffe verwendet für unser Tun, MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel: **Einzelne ermächtigen mit ihren personenbezogenen Daten, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
 
-_Together, in recent years, we have formed a network whose participants Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz sich treffen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
+_Zusammen haben wir in den vergangenen Jahren ein Netzwerk geschaffen, dessen Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz sich treffen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
-It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Wirkung auf Einzelene, Gesellschaft und Wirtschaft nachzuweisen. It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
@@ -13,11 +13,11 @@ Today, the balance of power is massively tilted towards organisations, who alone
 
 * Trust and confidence, that rest on balanced and fair relationships between people, as well as between people and organisations;
 
-* Self-determination, that is achieved, not only by legal protection, but also by proactive actions to share the power of data with individuals;
+* Selbstbestimmung, that is achieved, not only by legal protection, but also by proactive actions to share the power of data with individuals;
 
 * Maximising the collective benefits of personal data, by fairly sharing them between organisations, individuals and society.
 
-## 1. MYDATA SHIFTS: WHAT NEEDS TO CHANGE
+## 1. MYDATA Verschiebungen: WAS ANDERS WERDEN MUSS
 
 Our overriding goal is to empower individuals to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
 
