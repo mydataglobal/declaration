@@ -1,9 +1,11 @@
 ---
 _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. Über Jahre hinweg  wir ganz verschiedene Begriffen für unsere Sache genommen: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel gestritten: **Einzelne mit ihren personenbezogenen Daten ermächtigen, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
 
-_In den letzten Jahren haben wir zusammen ein Netzwerk geschaffen, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz sich treffen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
+_In den letzten Jahren haben wir zusammen ein Netzwerk geschaffen, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
-Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu belegen. Heute finden wir ist es an an der Zeitz die Werte zu bekennen, die uns antreiben, und uns an jede zu wende, die sie teilen. Folgt uns in die Umkehr des Paradigmas der personenbezogenen Daten. Macht mit beim Erschaffen der MyData Bewegung.  Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Heute finden wir ist es an an der Zeit die Werte zu bekennen, die uns antreiben, und uns an jede zu wenden, die sie teilen. Folgt uns in die Umkehr des Paradigmas der personenbezogenen Daten. Nehmt teil an der sich formierenden MyData Bewegung._
+
+Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
