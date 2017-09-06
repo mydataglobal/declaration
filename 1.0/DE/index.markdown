@@ -21,7 +21,7 @@ Today, the balance of power is massively tilted towards organisations, who alone
 
 ## 1. MYDATA Verschiebungen: WAS ANDERS WERDEN MUSS
 
-Our overriding goal is to empower individuals to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
+Das höchste Ziel ist es einzelne zu ermächtigen to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
@@ -33,7 +33,7 @@ Data protection regulation and corporate ethics codes are designed to protect pe
 
 ### 1.3. VON ISOLIERTEN ZU OFFENEN ÖKOSYSTEMEN
 
-Today’s data economy creates network effects favoring a few platforms able to collect and process the largest masses of personal data. These platforms are locking up markets, not just for their competitors, but also for most businesses who risk losing direct access to their customers. By letting individuals control what happens to their data, we intend to create a truly free flow of data - freely decided by individuals, free from global choke points - and to create balance, fairness, diversity and competition in the digital economy.
+Today’s Datenwirtschaft creates Netzwerkeffekte favoring a few platforms able to collect and process the largest masses of personal data. These platforms are locking up markets, not just for their competitors, but also for most businesses who risk losing direct access to their customers. By letting individuals control what happens to their data, we intend to create a truly free flow of data - freely decided by individuals, free from global choke points - and to create balance, fairness, diversity and competition in the digital economy.
 
 ## 2. MYDATA ROLLEN: WER MACHT WAS
 
@@ -56,7 +56,7 @@ A data using service can be authorised to fetch and use personal data from one o
 
 A Personal Data Operator enables individuals to securely access, manage and use their personal data, as well as to control the flow of personal data with, and between, data sources and data using services. Individuals can be their own operator. In other cases, operators are not using the information itself, but enabling connectivity and secure sharing of data between the other roles in the ecosystem.
 
-## 3. MYDATA PRINCIPLES: WHAT WE WANT TO ACHIEVE
+## 3. MYDATA PRINZIPIEN: WAS WIR ERREICHEN WOLLEN
 
 In order to produce the shifts that are needed for a human-centric approach to personal data, we commit to working towards and advocating the following principles:
 
