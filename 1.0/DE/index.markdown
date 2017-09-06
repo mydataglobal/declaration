@@ -104,16 +104,16 @@ In order to maximise the positive effects of open ecosystems, we will continuous
 
 * **Use the Declaration** to further your own projects and intentions. Base your trust framework, or your terms of services, on it. Use it to lobby and convince clients, partners, stakeholders etc.
 
-## REFERENCES
+## VERWEISE
 
-This Declaration of Principles draws upon many sources of inspiration, the most significant ones being:
+Diese Erklärung von Prinzipien ist aus vielen Quellen inspiriert, die wichtigsten davon sind:
 
-* The [MyData Principles](https://github.com/okffi/mydata) (Open Knowledge Finland)
+* Die [MyData Principles](https://github.com/okffi/mydata) (Open Knowledge Finland)
 
-* The [MesInfos Self Data Charter](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.qn9xmj8uw8ja) (Fing)
+* Die [MesInfos Self Data Charter](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.qn9xmj8uw8ja) (Fing)
 
-* The [Project VRM Principles](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.wwuoeihq76ji) (Project VRM)
+* Die [Project VRM Principles](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.wwuoeihq76ji) (Project VRM)
 
-* The [ODI data sharing principles](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.h9z8majrp45k) (Open Data Institute)
+* Die [ODI data sharing principles](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.h9z8majrp45k) (Open Data Institute)
 
-* The [Personal Data Ecosystem Roles & Definitions](http://pde.cc/) (PDEC)
+* Die [Personal Data Ecosystem Roles & Definitions](http://pde.cc/) (PDEC)
