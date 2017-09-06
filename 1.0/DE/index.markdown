@@ -3,7 +3,7 @@ _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen,
 
 _In den letzten Jahren haben wir zusammen ein Netzwerk geschaffen, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
-Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Heute finden wir ist es an an der Zeit die Werte zu bekennen, die uns antreiben, und uns an jede zu wenden, die sie teilen. Folgt uns in die Umkehr des Paradigmas der personenbezogenen Daten. Nehmt teil an der sich formierenden MyData Bewegung._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre mögliche Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Heute finden wir ist es an an der Zeit die Werte zu bekennen, die uns antreiben, und uns an alle zu richten, die sie teilen. Folgt uns in die Umkehr des Paradigmas der personenbezogenen Daten. Nehmt teil an der sich formierenden MyData Bewegung._
 
 Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
 
