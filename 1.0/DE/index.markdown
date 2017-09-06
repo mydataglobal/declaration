@@ -37,7 +37,7 @@ Today’s data economy creates network effects favoring a few platforms able to 
 
 ## 2. MYDATA ROLLEN: WER MACHT WAS
 
-_Please note: "**Roles**" are not “**Actors**” an individual or organisation may fulfill one or more roles at once._
+_Please note: "**Rollen**" sind keine “**Akteure**” ein Einzelner oder eine Organisation kann ein oder mehrere Rollen zugleich wahrnehmen._
 
 ![MYDATA ROLES](image_0.png)
 
