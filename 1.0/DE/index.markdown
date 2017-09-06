@@ -1,5 +1,5 @@
 ---
-_Wir sind Unternehmer, Engagierte, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über die Jahre haben wir unterschiedliche Begriffe verwendet für unser Tun, MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel: **Einzelne ermächtigen mit ihren personenbezogenen Daten, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
+_Wir sind Unternehmer, engagierte Bürger, Akademiker, registrierte Firmen, Agenturen und Entwickler. Über die Jahre haben wir unterschiedliche Begriffe verwendet für unser Tun, MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und für unser gemeinsames Ziel: **Einzelne ermächtigen mit ihren personenbezogenen Daten, und somit für sich selbst und ihre Verbindungen, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
 
 _Zusammen haben wir in den vergangenen Jahren ein Netzwerk geschaffen, dessen Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz sich treffen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
@@ -7,7 +7,7 @@ Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre m�
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
-As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of their benefits.
+Da die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of their benefits.
 
 Today, the balance of power is massively tilted towards organisations, who alone have the power to collect, trade and make decisions based on personal data, whereas individuals can only hope, if they work hard, to gain some control over what happens with their data. The shifts and principles that we lay out in this Declaration aim at restoring balance and moving towards a human-centric vision of personal data. We believe they are the conditions for a just, sustainable and prosperous digital society  whose foundations are:
 
