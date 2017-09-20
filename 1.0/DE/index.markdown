@@ -1,7 +1,7 @@
 ---
 _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. In der vergangenen Zeit nahmen wir sehr verschiedene Begriffe für unsere Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und sind für unser gemeinsames Ziel eingetreten: **Einzelne mit ihren personenbezogenen Daten zu ermächtigen, und somit für sich selbst und ihre Kontakte Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter miteinander und mit Organisationen zusammen zu wirken**_
 
-_In den letzten Jahren bildendeten wir ein Netzwerk, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
+_In den letzten Jahren bildendeten wir ein Netzwerk, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem Ansatz der personenbezogenen Daten für die Menschen._
 
 Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun, denken wir, ist es an der Zeit die uns bestimmden Werte öffentlich zu bekennen und uns an jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
