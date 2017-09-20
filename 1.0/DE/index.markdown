@@ -3,8 +3,7 @@ _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen,
 
 _In den letzten Jahren haben wir zusammen ein Netzwerk geschaffen, in dem die Teilnehmer Erfahrungen teilen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem menschenorientierten Ansatz für personenbezogene Daten._
 
-Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun, denken wir, ist es an der Zeit die uns bestimmden Werte öffentlich zu bekennen und uns an jene zu wenden, die sie teilen, um danach zu handeln.  Folgt uns in die Umkehr des Paradigmas der personenbezogenen Daten. Macht mit bei der sich formierenden MyData Bewegung._
-Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun, denken wir, ist es an der Zeit die uns bestimmden Werte öffentlich zu bekennen und uns an jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
