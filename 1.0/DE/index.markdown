@@ -11,13 +11,11 @@ Today, we believe it is time to publicly assert the values that drive us - and c
 
 Da die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of their benefits.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche allein die Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzelpersonen nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu bekommen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vision von personenbezogenen Daten. Wir glauben, dass sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft, für deren Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, die als einzige die Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzelpersonen nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vision von personenbezogenen Daten. Wir glauben, dass sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für ihre Fundamente gilt:
 
-Today, the balance of power is massively tilted towards organisations, who alone have the power to collect, trade and make decisions based on personal data, whereas individuals can only hope, if they work hard, to gain some control over what happens with their data. The shifts and principles that we lay out in this Declaration aim at restoring balance and moving towards a human-centric vision of personal data. We believe they are the conditions for a just, sustainable and prosperous digital society  whose foundations are:
+* Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen Menchen als auch Menschen und Organisationen;
 
-* Trust and confidence, that rest on balanced and fair relationships between people, as well as between people and organisations;
-
-* Selbstbestimmung, that is achieved, not only by legal protection, but also by proactive actions to share the power of data with individuals;
+* Selbstbestimmung, nicht nur durch gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
 
 * Maximieren des gesellschaftlichen Nutzen personenbezogener Daten durch faires Teilen zwischen Organisationen, Einzelnen und Gesellschaft
 
