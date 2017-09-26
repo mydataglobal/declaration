@@ -3,7 +3,7 @@ _We are entrepreneurs, activists, academics, listed corporations, public agencie
 
 _Together, in recent years, we have formed a network whose participants share experience, develop common projects, meet at the MyData conference, and take part in collective endeavours towards a human-centric approach to personal data._
 
-It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement.
+_It is now time to take this work out in the world and prove its potential impact on individuals, society, and the economy. Today, we believe it is time to publicly assert the values that drive us - and call on those who share those values to act upon them. Join us in reversing the paradigm of personal data. Join us in creating the MyData movement._
 
 # DECLARATION OF MYDATA PRINCIPLES
 
