@@ -7,9 +7,9 @@ Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre m�
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
-Da die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of their benefits.
+Da die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen das Einzelne in der Lage sind ihre personönlichen Daten zu wissen und zu kontrollieren, sowie persönoliches Wissen daraus zu gewinnen und ihren Anteil an ihrem Nutzen zu haben.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, die als einzige die Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzelpersonen nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vision von personenbezogenen Daten. Wir glauben, dass sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für ihre Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, die allein die Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
 * Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen Menchen als auch Menschen und Organisationen;
 
@@ -19,7 +19,7 @@ Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv versch
 
 ## 1. MYDATA Verschiebungen: WAS ANDERS WERDEN MUSS
 
-Das höchste Ziel ist es einzelne zu ermächtigen to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
+Das höchste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für eigene Zwecke, und sie sicher unter ihren eigenen Bedingungen zu teilen. to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
