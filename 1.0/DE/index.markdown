@@ -7,7 +7,7 @@ Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre m�
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
-Da die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen das Einzelne in der Lage sind ihre personönlichen Daten zu wissen und zu kontrollieren, sowie persönoliches Wissen daraus zu gewinnen und ihren Anteil an ihrem Nutzen zu haben.
+Weil die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen das Einzelne in der Lage sind ihre personönlichen Daten zu wissen und zu kontrollieren, sowie persönoliches Wissen daraus zu gewinnen und ihren Anteil an ihrem Nutzen zu haben.
 
 Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, die allein die Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
