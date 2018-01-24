@@ -1,17 +1,17 @@
 ---
-_Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. In der vergangenen Zeit sprachen wir mit sehr verschiedenen Begriffen ueber unsere Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und traten für unser gemeinsames Ziel ein: **Jeden Einzelnen mit seinen personenbezogenen Daten zu ermächtigen, für sich und seine Netzwerk, Wissen zu schaffen, Entscheidungen informierter zu treffen und bewusster und effizienter untereinander und in Organisationen zusammen zu wirken**_
+_Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. In der vergangenen Zeit sprachen wir mit sehr verschiedenen Begriffen über unsere Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und verfolgten ein gemeinsames Ziel: **Jeden Einzelnen mit seinen personenbezogenen Daten zu ermächtigen, für sich und seine Netzwerk, Wissen zu schaffen, Entscheidungen informierter zu treffen und bewusster und effizienter untereinander und in Organisationen zusammen zu wirken**_
 
 _In den letzten Jahren bildeten wir ein Netzwerk, in dem die Teilnehmer Erfahrungen austauschen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem Ansatz der personenbezogenen Daten für die Menschen._
 
-Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun, denken wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun finden wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
-Weil die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen das Einzelne in der Lage sind ihre personönlichen Daten zu wissen und zu kontrollieren, sowie persönoliches Wissen daraus zu gewinnen und ihren Anteil an ihrem Nutzen zu haben.
+Weil die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen das Einzelne in der Lage sind ihre personönlichen Daten zu kennen und zu kontrollieren, sowie persönliches Wissen daraus zu gewinnen und ihren Anteil an ihrem Nutzen zu haben.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, die allein die Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
-* Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen Menchen als auch Menschen und Organisationen;
+* Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen den Menchen als auch Menschen und Organisationen;
 
 * Selbstbestimmung, nicht nur durch gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
 
@@ -19,19 +19,19 @@ Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv versch
 
 ## 1. MYDATA Verschiebungen: WAS ANDERS WERDEN MUSS
 
-Das höchste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für eigene Zwecke, und sie sicher unter ihren eigenen Bedingungen zu teilen. to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
+Das höchste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für eigene Zwecke, und sie sicher unter ihren eigenen Bedingungen zu teilen. Diesen menschenorientierten Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen um anderen zu helfen, das gleich tun können.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnten, doch ihre Rechte sind weitgehend eine Formsache geblieben: wenig bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität im Zusammenspiel von Menschen und Organisationen. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, die so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
+In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnten. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität im Zusammenspiel von Menschen und Organisationen. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, die so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Data protection regulation and corporate ethics codes are designed to protect people from abuse and misuse of their personal data by organisations. Obwohl sie notwendig belieben, we intend to change common practices towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
+Data protection regulation and Unternehmensethik-Leitlinien are designed to protect people from abuse and misuse of their personal data by organisations. Obwohl sie notwendig belieben, we intend to change die öblichen Pratiken hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Beispiele fur solche Verwendungen schliessen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persoenlichen Bedinnungen des Einyelnen. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Today’s Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft persoenliche Daten zu sammeln und zu verarbeiten. Jene platforms verschliessen Maekte, nicht nur gegenueber den Wettbewerbern sondern auch fuer jene Unternehmen die den direkten Draht zum Kunden verlieren. Durch letting individuals control was mit ihren Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - frei entschieden by individuals, frei von globalen  choke points - und um Balance, Fairness, vielfalt und Wettbewerb in der digitalen Wirtschaft zu erhalten.
+Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft persoenliche Daten zu sammeln und zu verarbeiten. Jene platforms verschliessen Maekte, nicht nur gegenueber den Wettbewerbern sondern auch fuer jene Unternehmen die den direkten Draht zum Kunden verlieren. Durch letting individuals control was mit ihren Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - frei entschieden by individuals, frei von globalen  choke points - und um Balance, Fairness, vielfalt und Wettbewerb in der digitalen Wirtschaft zu bewahren.
 
 ## 2. MYDATA ROLLEN: WER MACHT WAS
 
@@ -41,14 +41,14 @@ _Bitte beachten: "**Rollen**" sind keine “**Akteure**” ein Einzelner oder ei
 
 ### PERSON
 
-An individual that manages the use of their own personenbezogenen Daten, for their own purposes, and maintains relationships with other individuals, services or organisations.
+An individual that manages the use of their own personenbezogenen Daten, fur die eigenen Zwecke, and maintains Beziehungen mit anderen Unternehmen, Diensten und Organisationsn.
 
 ### DATENQUELLEN
-A data source collects and processes personal data which the other roles (including Persons) may wish to access and use.
+eine Datenquelle sammelt und verarbeitet personenbezogene Daten  data source collects and processes personal data which the other roles (including Persons) may wish to access and nutzen.
 
 ### DATEN nutzende Dienste
 
-A data using service can ermaechtigt werden to fetch and use personal data aus einer oder mehreren Datenquellen.
+A data using service can ermaechtigt werden to holen und verwenden personal data aus einer oder mehreren Datenquellen.
 
 ### PERSONAL DATen Operateur
 
@@ -60,9 +60,9 @@ Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persoenlich
 
 ### 3.1 HUMAN-CENTRIC CONTROL OF PERSONAL DATA  
 
-Individuals should be empowered actors in the management of their personal lives both online and offline. They should be provided with the practical means to understand and effectively control who has access to data about them and how it is used and shared.
+Individuals should be ermächtigte Akteure actors in the management of their personal lives both online and offline. They should be provided with the konkreten Mitteln to understand and effectively control who has access to data about them and how it is used and shared.
 
-We want privacy, data security and data minimisation to become standard practice in the design of applications. We want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke their consent** to share data based on a clear understanding of why, how and for how long their data will be used. Ultimately, we want the terms and conditions for using personal data to become negotiable in a fair way between individuals and organisations.
+Wir wollen privacy, datensicherheit und Datensparsamkeito become standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke their consent** to share data based on a clear understanding of why, how and for how long their data will be used. Ultimately, we want the terms and conditions for using personal data to become negotiable in a fair way between individuals and organisations.
 
 ### 3.2 INDIVIDUAL AS THE POINT OF INTEGRATION
 
