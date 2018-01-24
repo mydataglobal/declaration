@@ -1,9 +1,9 @@
 ---
-_Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. In der vergangenen Zeit nahmen wir sehr verschiedene Begriffe für unsere Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und traten für unser gemeinsames Ziel ein: **Jeden Einzelnen mit seinen personenbezogenen Daten zu ermächtigen, für sich und seine Netzwerk, Wissen zu schaffen, informierte Entscheidungen zu treffen und bewusster und effizienter untereinander und in Organisationen zusammen zu wirken**_
+_Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. In der vergangenen Zeit sprachen wir mit sehr verschiedenen Begriffen ueber unsere Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und traten für unser gemeinsames Ziel ein: **Jeden Einzelnen mit seinen personenbezogenen Daten zu ermächtigen, für sich und seine Netzwerk, Wissen zu schaffen, Entscheidungen informierter zu treffen und bewusster und effizienter untereinander und in Organisationen zusammen zu wirken**_
 
 _In den letzten Jahren bildeten wir ein Netzwerk, in dem die Teilnehmer Erfahrungen austauschen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem Ansatz der personenbezogenen Daten für die Menschen._
 
-Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun, denken wir, ist es an der Zeit die uns bestimmden Werte öffentlich zu bekennen und uns an jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
+Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun, denken wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
 # Erklärung der MYDATA GRUNDSÄTZE
 
@@ -23,15 +23,15 @@ Das höchste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für 
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In vielen Ländern, individuals have enjoyed gesetzlichen Datenschutz seit Jahrzehnten, doch ihre Rechte sind weitgehend eine Formsache geblieben: wenig bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität im Zusammenspiel von Menschen und Organisationen. Wir wollen Zugang, Redress, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte die einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
+In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnten, doch ihre Rechte sind weitgehend eine Formsache geblieben: wenig bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität im Zusammenspiel von Menschen und Organisationen. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, die so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Data protection regulation and corporate ethics codes are designed to protect people from abuse and misuse of their personal data by organisations. While these will remain necessary, we intend to change common practices towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
+Data protection regulation and corporate ethics codes are designed to protect people from abuse and misuse of their personal data by organisations. Obwohl sie notwendig belieben, we intend to change common practices towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
 
-### 1.3. VON ISOLIERTEN ZU OFFENEN ÖKOSYSTEMEN
+### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Today’s Datenwirtschaft creates Netzwerkeffekte favoring a few platforms able to collect and process the largest masses of personal data. These platforms are locking up markets, not just for their competitors, but also for most businesses who risk losing direct access to their customers. By letting individuals control what happens to their data, we intend to create a truly free flow of data - freely decided by individuals, free from global choke points - and to create balance, fairness, diversity and competition in the digital economy.
+Today’s Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft persoenliche Daten zu sammeln und zu verarbeiten. Jene platforms verschliessen Maekte, nicht nur gegenueber den Wettbewerbern sondern auch fuer jene Unternehmen die den direkten Draht zum Kunden verlieren. Durch letting individuals control was mit ihren Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - frei entschieden by individuals, frei von globalen  choke points - und um Balance, Fairness, vielfalt und Wettbewerb in der digitalen Wirtschaft zu erhalten.
 
 ## 2. MYDATA ROLLEN: WER MACHT WAS
 
@@ -41,22 +41,22 @@ _Bitte beachten: "**Rollen**" sind keine “**Akteure**” ein Einzelner oder ei
 
 ### PERSON
 
-An individual that manages the use of their own personal data, for their own purposes, and maintains relationships with other individuals, services or organisations.
+An individual that manages the use of their own personenbezogenen Daten, for their own purposes, and maintains relationships with other individuals, services or organisations.
 
 ### DATENQUELLEN
 A data source collects and processes personal data which the other roles (including Persons) may wish to access and use.
 
-### DATA USING SERVICE
+### DATEN nutzende Dienste
 
-A data using service can be authorised to fetch and use personal data from one or more data sources.
+A data using service can ermaechtigt werden to fetch and use personal data aus einer oder mehreren Datenquellen.
 
-### PERSONAL DATA OPERATOR
+### PERSONAL DATen Operateur
 
 A Personal Data Operator enables individuals to securely access, manage and use their personal data, as well as to control the flow of personal data with, and between, data sources and data using services. Individuals can be their own operator. In other cases, operators are not using the information itself, but enabling connectivity and secure sharing of data between the other roles in the ecosystem.
 
-## 3. MYDATA PRINZIPIEN: WAS WIR ERREICHEN WOLLEN
+## 3. MYDATA PRINZIPIEN: WAS WIR BEABSICHTIGEN
 
-In order to produce the shifts that are needed for a human-centric approach to personal data, we commit to working towards and advocating the following principles:
+Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persoenliche Daten produce the shifts that are needed for a human-centric approach to personal data, we commit to working towards and advocating the following principles:
 
 ### 3.1 HUMAN-CENTRIC CONTROL OF PERSONAL DATA  
 
@@ -76,7 +76,7 @@ In a data-driven society, as in any society, individuals should not just be seen
 
 We want individuals to be able to **securely manage their personal data** in their own preferred way. We intend to help individuals have the tools, skills and assistance to transform their personal data into useful information, knowledge and autonomous decision-making. We believe that these are the preconditions for fair and beneficial data-based relationships.
 
-### 3.4 PORTABILITY: ACCESS AND RE-USE
+### 3.4 PORTABILITY: zugung und Wiederverwendung
 
 The portability of personal data, that allows individuals to obtain and reuse their personal data for their own purposes and across different services, is the key to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
 
@@ -90,11 +90,11 @@ Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, i
 
 ### 3.6 INTEROPERABILITY
 
-Der Sinn von interoperability is to decrease friction in the data flow from data sources to data using services, while eliminating the possibilities of data lock-in. It should be achieved by continuously driving towards **common business practices and technical standards**.
+Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschaeftspraktiken und technischen Standards**.
 
-In order to maximise the positive effects of open ecosystems, we will continuously work towards interoperability of data, open APIs, protocols, applications and infrastructure, so that all personal data are **portable and reusable**, without losing user control. We will build upon commonly accepted standards, ontologies, libraries and schemas, or help develop new ones if necessary. 
+In order to maximise the positive effects of open ecosystems, we will continuously work towards Dateninteroperabilitaet, open APIs, protocols, applications and infrastructure, so that all personal data are **portable and reusable**, without losing user control. We will build upon commonly accepted standards, ontologies, libraries and schemas, or help develop new ones if necessary. 
 
-## 4. ACTIONS: WHAT SHOULD HAPPEN NOW
+## 4. TATEN: Was passieren muss
 
 * **Sign the Declaration**, as an individual and/or as an organisation. This Declaration is written in the future tense: if your organisation isn’t quite there, but is committed to moving into this direction, it should still sign it!
 
