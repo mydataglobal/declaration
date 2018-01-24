@@ -27,7 +27,7 @@ In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnte
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Data protection regulation and Unternehmensethik-Leitlinien are designed to protect people from abuse and misuse of their personal data by organisations. Obwohl sie notwendig belieben, we intend to change die öblichen Pratiken hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Beispiele fur solche Verwendungen schliessen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persoenlichen Bedinnungen des Einyelnen. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
+Data protection regulation and Unternehmensethik-Leitlinien are designed to protect people from abuse and misuse of their personal data by organisations. Obwohl sie notwendig belieben, we intend to change die öblichen Pratiken hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Beispiele fur solche Verwendungen schliessen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persoenlichen Bedinungen des Einzelnen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
@@ -92,7 +92,7 @@ Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, i
 
 Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschaeftspraktiken und technischen Standards**.
 
-In order to maximise the positive effects of open ecosystems, we will continuously work towards Dateninteroperabilitaet, open APIs, protocols, applications and infrastructure, so that all personal data are **portable and reusable**, without losing user control. We will build upon commonly accepted standards, ontologies, libraries and schemas, or help develop new ones if necessary. 
+In order to maximise the positive effects of open ecosystems, we will continuously work towards Dateninteroperabilitaet, open APIs, protocols, applications and infrastructure, so that all personal data are **portable and reusable**, without losing user control. We will build upon commonly accepted standards, ontologies, libraries and schemas, oder helpen entwickeln neue sofern erforderlich. 
 
 ## 4. TATEN: Was passieren muss
 
