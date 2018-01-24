@@ -78,29 +78,29 @@ We want individuals to be able to **securely manage their personal data** in the
 
 ### 3.4 PORTABILITY: zugung und Wiederverwendung
 
-The portability of personal data, that allows individuals to obtain and reuse their personal data for their own purposes and across different services, is the key to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
+The portierbarkeit von personal data, that allows individuals to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen diensten, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
 
-We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the legal basis (contract, consent, legitimate interest, etc.) of data collection, with possible exceptions for enriched data.
+We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the rechtliche Grundlage (Vertrag, consent, legitimate interest, etc.) of Datensammlung, with possible exceptions for enriched data.
 
 ### 3.5 TRANSPARENCY UND VERANTWORTLICHKEIT
 
 Organisations that use a person’s data sollen sagen was sie mit ihnen tun und warum, und sollen machen was sie sagen. what they do with them and why, and should do what they say. They should take responsibility for intended, as well as unintended, consequences of holding and using personal data, including, but not limited to, security incidents, and allow individuals to call them out on this responsibility.
 
-Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create easy to use and safe channels for individuals to **see and control what happens to their data**, to alert them of possible issues, and to challenge algorithm-based decisions.
+Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create einfach yu verwendende und sichere Kanöle for individuals to **see and control what happens to their data**, to alert them of possible issues, und algorithmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITY
 
 Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschaeftspraktiken und technischen Standards**.
 
-In order to maximise the positive effects of open ecosystems, we will continuously work towards Dateninteroperabilitaet, open APIs, protocols, applications and infrastructure, so that all personal data are **portable and reusable**, without losing user control. We will build upon commonly accepted standards, ontologies, libraries and schemas, oder helpen entwickeln neue sofern erforderlich. 
+In order to maximise the positive effects of open ecosystems, we will continuously work towards Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur, so that alle personlcihen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden build upon commonly akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helpen zu entwickeln sofern erforderlich. 
 
 ## 4. TATEN: Was passieren muss
 
-* **Sign the Declaration**, as an individual and/or as an organisation. This Declaration is written in the future tense: if your organisation isn’t quite there, but is committed to moving into this direction, it should still sign it!
+* **Unterschreiben der Erklörung**, als Privatperson und-oder als Unternehmen. Diese Erklaerung ist Declaration is written in the future tense: if your organisation isn’t quite there, but is committed to moving into this direction, it should still sign it!
 
 * **Comment on the Declaration**. This Declaration will evolve over time, based on your ideas and practical experience. There will be an initial review after 6 months.
 
-* **Use the Declaration** to further your own projects and intentions. Base your trust framework, or your terms of services, on it. Use it to lobby and convince clients, partners, stakeholders etc.
+* **Verwende die Erklarung** to further your eigenen Projekte und Absichten. Base your trust framework, or your terms of services, on it. Use it to lobby and convince Kunden, Partner, Interessengruppen etc.
 
 ## VERWEISE
 
