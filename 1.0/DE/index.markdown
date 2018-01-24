@@ -11,7 +11,7 @@ Weil die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächs
 
 Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
-* Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen den Menchen als auch Menschen und Organisationen;
+* Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen den Menschen als auch Menschen und Organisationen;
 
 * Selbstbestimmung, nicht nur durch gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
 
