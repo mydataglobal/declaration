@@ -1,7 +1,7 @@
 ---
 _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Agenturen und Entwickler. In der vergangenen Zeit sprachen wir mit sehr verschiedenen Begriffen über unsere Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw., und verfolgten ein gemeinsames Ziel: **Jeden Einzelnen mit seinen personenbezogenen Daten zu ermächtigen, für sich und seine Netzwerk, Wissen zu schaffen, Entscheidungen informierter zu treffen und bewusster und effizienter untereinander und in Organisationen zusammen zu wirken**_
 
-_In den letzten Jahren bildeten wir ein Netzwerk, in dem die Teilnehmer Erfahrungen austauschen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen and take part in collective endeavours hin zu einem Ansatz der personenbezogenen Daten für die Menschen._
+_In den vergangenen Jahren bildeten wir ein Netzwerk, in dem die Teilnehmer Erfahrungen austauschen, gemeinsame Projekte entwickeln, zur MyData Konferenz zusammen kommen, und in gemeinschaftlichen und namen teil hin zu einem Ansatz der personenbezogenen Daten für die Menschen._
 
 Es ist nun an der Zeit diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu zeigen. Nun finden wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
@@ -41,18 +41,18 @@ _Bitte beachten: "**Rollen**" sind keine “**Akteure**” ein Einzelner oder ei
 
 ### PERSON
 
-An individual that manages the use of their own personenbezogenen Daten, fur die eigenen Zwecke, and maintains Beziehungen mit anderen Unternehmen, Diensten und Organisationsn.
+Ein Individium. das die Verwendung von seinen personenbezogenen Daten verwaltet, fur die eigenen Zwecke, und Beziehungen mit anderen Unternehmen, Diensten und Organisationen pflegt.
 
 ### DATENQUELLEN
-eine Datenquelle sammelt und verarbeitet personenbezogene Daten  data source collects and processes personal data which the other roles (including Persons) may wish to access and nutzen.
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, die andere Rollen (einschliessliche Personen) wünschen könnten zuzugreifen und zu verwenden.
 
 ### DATEN nutzende Dienste
 
-A data using service can ermaechtigt werden to holen und verwenden personal data aus einer oder mehreren Datenquellen.
+Ein Datenverwendungsdienst kann ermaechtigt werden zu holen und verwenden Persönliche Daten aus einer oder mehreren Datenquellen.
 
 ### PERSONAL DATen Operateur
 
-A Personal Data Operator enables individuals to securely access, manage and use their personal data, as well as to control the flow of personal data with, and between, data sources and data using services. Individuals can be their own operator. In other cases, operators are not using the information itself, but enabling connectivity and secure sharing of data between the other roles in the ecosystem.
+A Personal Datenverartbeiter ermöglicht Indiduen zu sicherem Zuugang, Verwalten udn Nutzen ihrer persönlciehn Daten, und auch den Fluss der persönlcihen Daten zu konntollieren und zwischen Datenquellen und Datenverwendenden Diensten, Individuals können ihr eigener operatoreur sen. In anderen Fällen, verwenden Operateure die Information nocht selbst, sondern other cases, operators are not using the information itself, but enabling connectivity and secure sharing of data between the other roles in the ecosystem.
 
 ## 3. MYDATA PRINZIPIEN: WAS WIR BEABSICHTIGEN
 
@@ -78,7 +78,7 @@ We want individuals to be able to **securely manage their personal data** in the
 
 ### 3.4 PORTABILITY: zugung und Wiederverwendung
 
-The portierbarkeit von personal data, that allows individuals to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen diensten, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
+Die Portierbarkeit von personal data, that allows individuals to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen diensten, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
 
 We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the rechtliche Grundlage (Vertrag, consent, legitimate interest, etc.) of Datensammlung, with possible exceptions for enriched data.
 
@@ -92,15 +92,15 @@ Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, i
 
 Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschaeftspraktiken und technischen Standards**.
 
-In order to maximise the positive effects of open ecosystems, we will continuously work towards Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur, so that alle personlcihen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden build upon commonly akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helpen zu entwickeln sofern erforderlich. 
+Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir ständig das auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden bauen auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helfen zu entwickeln sofern erforderlich. 
 
 ## 4. TATEN: Was passieren muss
 
 * **Unterschreiben der Erklörung**, als Privatperson und-oder als Unternehmen. Diese Erklaerung ist Declaration is written in the future tense: if your organisation isn’t quite there, but is committed to moving into this direction, it should still sign it!
 
-* **Comment on the Declaration**. This Declaration will evolve over time, based on your ideas and practical experience. There will be an initial review after 6 months.
+* **Comment on the Declaration**. Diese Erklärung wird sich über die Zeit entwickeln, auf Grundlage ihrer Ideen und praktischen Erfahrungen. Es gibt eine erste Überarbeitung nach 6 Monaten.
 
-* **Verwende die Erklarung** to further your eigenen Projekte und Absichten. Base your trust framework, or your terms of services, on it. Use it to lobby and convince Kunden, Partner, Interessengruppen etc.
+* **Verwende die Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Base your Vertraunsnetzwerk, oder ihre Dienstbedingungen darauf. Verwende sie um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
 
 ## VERWEISE
 
