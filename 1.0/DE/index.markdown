@@ -84,13 +84,13 @@ We want to empower individuals to **effectively port their personal data**, both
 
 ### 3.5 TRANSPARENCY UND VERANTWORTLICHKEIT
 
-Organisations that use a person’s data sollen sagen was sie mit ihnen tun und warum, und sollen machen was sie sagen. what they do with them and why, and should do what they say. They should take responsibility for intended, as well as unintended, consequences of holding and using personal data, including, but not limited to, security incidents, and allow individuals to call them out on this responsibility.
+Organisations that use a person’s data sollen sagen was sie mit ihnen tun und warum, und sollen machen was sie sagen. what they do with them and why, and should do what they say. Sie sollen Verantwortung über nehmen für die beabsichtigen als auch die unbeabsichtigen Wirkungen des Haltens und Verwendends personaler Daten, einschliesslich, aberr nicht beschränkt auf Sicherheitsvorkommens, und den 'Individuen erlauben sie dafür zur Verntwortung zu nehmen.
 
 Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create einfach yu verwendende und sichere Kanöle for individuals to **see and control what happens to their data**, to alert them of possible issues, und algorithmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITY
 
-Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschaeftspraktiken und technischen Standards**.
+Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
 
 Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir ständig das auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden bauen auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helfen zu entwickeln sofern erforderlich. 
 
@@ -98,7 +98,7 @@ Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir s
 
 * **Unterschreiben der Erklörung**, als Privatperson und-oder als Unternehmen. Diese Erklaerung ist Declaration is written in the future tense: if your organisation isn’t quite there, but is committed to moving into this direction, it should still sign it!
 
-* **Comment on the Declaration**. Diese Erklärung wird sich über die Zeit entwickeln, auf Grundlage ihrer Ideen und praktischen Erfahrungen. Es gibt eine erste Überarbeitung nach 6 Monaten.
+* **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit entwickeln, auf Grundlage ihrer Ideen und praktischen Erfahrungen. Es gibt eine erste Überarbeitung nach 6 Monaten.
 
 * **Verwende die Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Base your Vertraunsnetzwerk, oder ihre Dienstbedingungen darauf. Verwende sie um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
 
