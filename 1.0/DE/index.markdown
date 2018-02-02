@@ -1,13 +1,13 @@
 ---
 _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Ämter und Entwickler. In der vergangenen Zeit verwendeten wir sehr verschiedene Begrifflichkeiten für die gleiche Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw. Das gemeinsame Ziel: **Jeden Einzelnen mit seinen personenbezogenen Daten zu bemächtigen, für sich und seine Netzwerk, Wissen zu entwickeln, informiert Entscheidungen zu treffen und miteinander und im organisatorischen Umfeld bewusster und effizienter zusammen zu arbeiten**_
 
-_In den vergangenen Jahren haben wir ein Netzwerk gebildet, in dem die Teilnehmer Erfahrungen austauschen, zusammen Projekte entwickeln, zur MyData Konferenz zusammen kommen, und sich gemeinsam auf die Reise machen zu einem menschenzentrierten Ansatz der personalen Daten._
+_In den vergangenen Jahren haben wir ein Netzwerk gebildet, in dem die Teilnehmer Erfahrungen austauschen, zusammen Projekte entwickeln, sich zur MyData Konferenz treffen, und sich gemeinsam auf die Reise machen zu einem menschenzentrierten Ansatz für personale Daten._
 
 Nun ist die Zeit gekommen diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu belegen. Heute finden wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
-# Erklärung der MYDATA GRUNDSÄTZE
+# EERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
-Weil die Bedeutung von personenbezogenen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen das Einzelne in der Lage sind ihre personönlichen Daten zu kennen und zu kontrollieren, sowie persönliches Wissen daraus zu gewinnen und ihren Anteil an ihrem Nutzen zu haben.
+Weil die Bedeutung von personalen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen, dass jeder einzelne in der Lage ist, seine persönlichen Daten zu kennen und zu kontrollieren, sowie persönliches Erkenntnisse aus ihnen zu ziehen und sich seinen Anteil an ihrem Nutzen zu sichern.
 
 Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
