@@ -5,19 +5,19 @@ _In den vergangenen Jahren haben wir ein Netzwerk gebildet, in dem die Teilnehme
 
 Nun ist die Zeit gekommen diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Einzelne, Gesellschaft und Wirtschaft zu belegen. Heute finden wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personenbezogenen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
-# EERKLÄRUNG DER MYDATA GRUNDSÄTZE
+# ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
-Weil die Bedeutung von personalen Daten in der Gesellschaft weiter wächst, wird es dringlicher sicherzustellen, dass jeder einzelne in der Lage ist, seine persönlichen Daten zu kennen und zu kontrollieren, sowie persönliches Erkenntnisse aus ihnen zu ziehen und sich seinen Anteil an ihrem Nutzen zu sichern.
+Weil die Bedeutung von personalen Daten in der Gesellschaft weiter wächst, wird es immer dringlicher sicherzustellen, dass jeder einzelne in der Lage ist, seine persönlichen Daten zu kennen und zu kontrollieren, sowie persönliches Erkenntnisse aus ihnen zu ziehen und sich seinen Anteil an ihrem Nutzen zu sichern.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, während Einzele nur hoffen können, mit harter Anstrengung eine Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Verschiebungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, wohin Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
-* Vertrauen und Zuverlässigkeit auf der Grundlage einer gleichrangigen und fairen Beziehung zwischen den Menschen als auch Menschen und Organisationen;
+* Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen als auch Menschen und Organisationen;
 
 * Selbstbestimmung, nicht nur durch gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
 
-* Maximieren des gesellschaftlichen Nutzen personenbezogener Daten durch faires Teilen zwischen Organisationen, Einzelnen und Gesellschaft
+* Maximieren des gesellschaftlichen Nutzens personaler Daten durch faires Teilen zwischen Organisationen, Einzelnen und Gesellschaft
 
-## 1. MYDATA Verschiebungen: WAS ANDERS WERDEN MUSS
+## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
 Das höchste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für eigene Zwecke, und sie sicher unter ihren eigenen Bedingungen zu teilen. Diesen menschenorientierten Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen um anderen zu helfen, das gleich tun können.
 
