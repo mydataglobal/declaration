@@ -9,7 +9,7 @@ Nun ist die Zeit gekommen diese Arbeit an die Öffentlichkeit zu tragen und ihre
 
 Weil die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher sicherzustellen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliches Erkenntnisse aus ihnen zu ziehen darf und sich seinen Anteil an ihrem Nutzen zu sichern.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu sammeln, zu teilen und mit ihnen Entscheidungen zu treffen, wohin Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu horten, weiter zu geben und mit ihnen Entscheidungen zu treffen, wogegen Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
 * Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen als auch Menschen und Organisationen;
 
@@ -27,7 +27,7 @@ In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnte
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor Missbrauch ihrer persönlichen Daten durch Organisation ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persoenlichen Bedingungen des Einzelnen. 
+Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor Missbrauch ihrer persönlichen Daten durch Organisation ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persönlichen Bedingungen des Einzelnen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
@@ -60,33 +60,33 @@ Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persönlich
 
 ### 3.1 MENSCHENORIENTIERTE KONTROLLE PERSONALER DATEN  
 
-Individuals should be ermächtigt Akteure in der Verwaltung von ihren Privatleben online und offline zu sein. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
+Individuen sollen ermächtigt sein Akteure in der Verwaltung von ihren Privatleben online und offline zu sein. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
 
-Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke ihr Einverständnis** um Daten zu teilen based on a clear understanding of why, how and for über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch personal daten auf faire Weise verhandelbar machen zwischen Einzelpersonen und Organisationen.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **privacy policies zu verstehen** and how to activate them. We want individuals to be **empowered to give, verweigern oder widerufen ihr Einverständnis** um Daten zu teilen based on a clear understanding of why, how and for über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch personal daten auf faire Weise verhandelbar machen zwischen Einzelpersonen und Organisationen.
 
 ### 3.2 INDIVIDUAL AS THE POINT OF INTEGRATION
 
 Der Wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen die "Knoten" werden, an denen das **kreuz-referenzieren von personalen Daten** stattfindet.
 
-Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen to enable a new generation of tools and services that provide deep personalisation und neues Wissen aus der Grundlage von Daten generieren, ohne beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten beizutragen.
+Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten generieren, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
 
 ### 3.3 INDIVIDUAL EMPOWERMENT
 
-In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **agency and initiative** haben.
+In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** haben.
 
 Wir wollen, dass Individuen fähig sind auf die eigene Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
 
-### 3.4 PORTIERBARKEIT: ZUGANG und WIEDERVERWENDUNG
+### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
 Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen Diensten können, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
 
-Wir wollen Individuen ermächtigen **ihre personal Daten effektiv zu portieren**, sowohl durch das Herunterladen auf ihre eigenen Geräte als und durch Übermittlung hin zu anderen Diensten. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, consent, legitimate interest, etc.) der Datensammlung, mit möglichen ausnahmen für angereicherte Daten.
+Wir wollen Individuen ermächtigen **ihre Personalen Daten effektiv zu portieren**, sowohl durch das Herunterladen auf ihre eigenen Geräte als und durch Übermittlung hin zu anderen Diensten. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
-die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen zu verantworten.
+Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen zu verantworten.
 
-Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create einfach yu verwendende und sichere Kanöle for individuals to **see and control what happens to their data**, to alert them of possible issues, und algorithmische Entscheidungen zu hinterfragen.
+Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to informierte Entscheidungen zu treffenn im vornhereion und überprüfbar wahrend und nach Verarbeitungsschritten. Wir wollen  individen in die Lage versetzen  to **understand how and why decisions** based on their data are made. Wir wollen einfach zu verwendende und sichere Kanäle for individuals schaffen um zu **sehen und zu kontrolieren, was mit ihren Daten geschieht**, to alert them of possible issues, und algorithmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITY
 
