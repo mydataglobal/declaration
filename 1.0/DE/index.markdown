@@ -60,9 +60,9 @@ Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persönlich
 
 ### 3.1 MENSCHENORIENTIERTE KONTROLLE PERSONALER DATEN  
 
-Individuals should be ermächtigt Akteure in der Verwaltung von ihren Privatleben online und offline zu sein. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und ekketiv zu kontrollieren, wer Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
+Individuals should be ermächtigt Akteure in der Verwaltung von ihren Privatleben online und offline zu sein. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
 
-Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke their consent** to share data based on a clear understanding of why, how and for how long their data will be used. Ultimately, we want the terms and conditions for using personal data to become negotiable in a fair way between individuals and organisations.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke ihr Einverständnis** um Daten zu teilen based on a clear understanding of why, how and for über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch personal daten auf faire Weise verhandelbar machen zwischen Einzelpersonen und Organisationen.
 
 ### 3.2 INDIVIDUAL AS THE POINT OF INTEGRATION
 
