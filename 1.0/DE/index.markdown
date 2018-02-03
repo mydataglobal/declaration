@@ -74,13 +74,13 @@ Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten
 
 In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **agency and initiative** haben.
 
-We want individuals to be able to **sicher verwalten ihre personalen Daten** in ihrer eigenen bevorzugten Art. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
+Wir wollen, dass Individuen fähig sind auf die eigene Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
 
-### 3.4 PORTABILITY: zugung und Wiederverwendung
+### 3.4 PORTIERBARKEIT: ZUGANG und WIEDERVERWENDUNG
 
-Die Portierbarkeit von Personalen Daten, that allows individuals to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen diensten, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
+Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen Diensten können, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
 
-We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the rechtliche Grundlage (Vertrag, consent, legitimate interest, etc.) of Datensammlung, with possible exceptions for enriched data.
+Wir wollen Individuen ermächtigen **ihre personal Daten effektiv zu portieren**, sowohl durch das Herunterladen auf ihre eigenen Geräte als und durch Übermittlung hin zu anderen Diensten. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, consent, legitimate interest, etc.) der Datensammlung, mit möglichen ausnahmen für angereicherte Daten.
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
