@@ -31,7 +31,7 @@ Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft personaler Daten zu sammeln und zu verarbeiten. Jene Platforms schnüren Märkte zu, nicht nur gegenueber den Wettbewerbern sondern auch für alle Unternehmen, die riskieren den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen kontrollieren lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - nach individueller freier Entscheidung, ohne globale "choke points", und um Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft zu erzeugen.
+Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft personaler Daten zu sammeln und zu verarbeiten. Jene Platformen schnüren Märkte zu, nicht nur für die Wettbewerber sondern auch für alle Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - nach individueller freier Entscheidung, ohne globale "choke points", und um Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft zu schaffen.
 
 ## 2. MYDATA ROLLEN: WER TUT WAS
 
