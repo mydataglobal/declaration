@@ -70,8 +70,9 @@ Der Wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; im gleich
 
 Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten generieren, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
 
-### 3.3 INDIVIDUAL ERMÄCHTIGUNG
-In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** haben.
+### 3.3 ERMÄCHTIGUNGTE MENSCHEN
+
+In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen Ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** haben.
 
 Wir wollen, dass Individuen fähig sind auf die eigene Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
 
@@ -99,7 +100,7 @@ Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir a
 
 * **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
 
-* **Verwenden der Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Legen sie ihr Vertraunsnetzwerk, oder ihre Dienstbedingungen auf diese grundlage. Verwende sie sie, um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
+* **Verwenden der Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Legen sie ihr Vertraunsnetzwerk, oder ihre Dienstbedingungen auf diese Grundlage. Verwende sie sie, um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
 
 ## VERWEISE
 
