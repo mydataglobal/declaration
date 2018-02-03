@@ -23,7 +23,7 @@ Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für e
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnten. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität im Zusammenspiel von Menschen und Organisationen. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, die so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
+In vielen Ländern geniessen Individuen seit Jahrzehnten gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, die so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
