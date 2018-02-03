@@ -9,9 +9,9 @@ Nun ist die Zeit gekommen diese Arbeit an die Öffentlichkeit zu tragen und ihre
 
 Weil die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher sicherzustellen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliches Erkenntnisse aus ihnen zu ziehen darf und sich seinen Anteil an ihrem Nutzen zu sichern.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu horten, weiter zu geben und mit ihnen Entscheidungen zu treffen, wogegen Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Vorstellung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu horten, weiter zu geben und mit ihnen Entscheidungen zu treffen, wogegen Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
-* Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen als auch Menschen und Organisationen;
+* Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen sowie Menschen und Organisationen;
 
 * Selbstbestimmung, nicht nur durch gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
 
@@ -86,7 +86,7 @@ Wir wollen Individuen ermächtigen **ihre Personalen Daten effektiv zu portieren
 
 Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen zu verantworten.
 
-Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to informierte Entscheidungen zu treffenn im vornhereion und überprüfbar wahrend und nach Verarbeitungsschritten. Wir wollen  individen in die Lage versetzen  to **understand how and why decisions** based on their data are made. Wir wollen einfach zu verwendende und sichere Kanäle for individuals schaffen um zu **sehen und zu kontrolieren, was mit ihren Daten geschieht**, to alert them of possible issues, und algorithmische Entscheidungen zu hinterfragen.
+Wir wollen sicherstellen, dass **Datenschutzerklärungen und  and policies der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt informierte Entscheidungen zu treffen im vornherein und wahrend und nach Verarbeitungsschritten überprüfbar. Wir wollen individen in die Lage versetzen zu verstehen **verstehen wie und welche Entscheidungen** auf Grundlöage ihrer Daten getroffen wurde. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und kontrolieren, was mit ihren Daten geschieht**, sie über mögliche vorfälle zu benachrichtigen und algorthmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITY
 
