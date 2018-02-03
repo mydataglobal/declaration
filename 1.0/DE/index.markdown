@@ -90,7 +90,7 @@ Wir wollen sicherstellen, dass **Datenschutzerklärungen und  and policies der R
 
 ### 3.6 INTEROPERABILITÄT
 
-Der Sinn von interoperabilität ist to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. während die Moöglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch ständige Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
+Der Sinn von interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern. während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch ständige Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
 
 Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir andauernd auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata bauen, oder, sofern erforderlich, neue helfen zu entwickeln. 
 
