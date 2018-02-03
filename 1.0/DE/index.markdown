@@ -64,14 +64,13 @@ Individuen sollen ermächtigt sein Akteure in der Verwaltung von ihren Privatleb
 
 Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **privacy policies zu verstehen** and how to activate them. We want individuals to be **empowered to give, verweigern oder widerufen ihr Einverständnis** um Daten zu teilen based on a clear understanding of why, how and for über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch personal daten auf faire Weise verhandelbar machen zwischen Einzelpersonen und Organisationen.
 
-### 3.2 INDIVIDUAL AS THE POINT OF INTEGRATION
+### 3.2 INDIVIDUAL ALS DER POINT OF INTEGRATION
 
 Der Wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen die "Knoten" werden, an denen das **kreuz-referenzieren von personalen Daten** stattfindet.
 
 Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten generieren, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
 
-### 3.3 INDIVIDUAL EMPOWERMENT
-
+### 3.3 INDIVIDUAL ERMÄCHTIGUNG
 In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** haben.
 
 Wir wollen, dass Individuen fähig sind auf die eigene Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
@@ -88,11 +87,11 @@ Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, wa
 
 Wir wollen sicherstellen, dass **Datenschutzerklärungen und  and policies der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt informierte Entscheidungen zu treffen im vornherein und wahrend und nach Verarbeitungsschritten überprüfbar. Wir wollen individen in die Lage versetzen zu verstehen **verstehen wie und welche Entscheidungen** auf Grundlöage ihrer Daten getroffen wurde. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und kontrolieren, was mit ihren Daten geschieht**, sie über mögliche vorfälle zu benachrichtigen und algorthmische Entscheidungen zu hinterfragen.
 
-### 3.6 INTEROPERABILITY
+### 3.6 INTEROPERABILITÄT
 
-Der Sinn von interoperabilität ist to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. während die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
+Der Sinn von interoperabilität ist to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. während die Moöglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch ständige Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
 
-Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir ständig das auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden bauen auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helfen zu entwickeln sofern erforderlich. 
+Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir andauernd auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata bauen, oder, sofern erforderlich, neue helfen zu entwickeln. 
 
 ## 4. TATEN: WAS PASSIEREN SOLL
 
