@@ -31,42 +31,42 @@ Data protection regulation and Unternehmensethik-Leitlinien are designed to prot
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft persoenliche Daten zu sammeln und zu verarbeiten. Jene platforms verschliessen Maekte, nicht nur gegenueber den Wettbewerbern sondern auch fuer jene Unternehmen die den direkten Draht zum Kunden verlieren. Durch letting individuals control was mit ihren Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - frei entschieden by individuals, frei von globalen  choke points - und um Balance, Fairness, vielfalt und Wettbewerb in der digitalen Wirtschaft zu bewahren.
+Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft personaler Daten zu sammeln und zu verarbeiten. Jene Platforms schnüren Märkte zu, nicht nur gegenueber den Wettbewerbern sondern auch für alle Unternehmen, die riskieren den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen kontrollieren lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - nach individueller freier Entscheidung, ohne globale "choke points", und um Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft zu erzeugen.
 
-## 2. MYDATA ROLLEN: WER MACHT WAS
+## 2. MYDATA ROLLEN: WER TUT WAS
 
-_Bitte beachten: "**Rollen**" sind keine “**Akteure**” ein Einzelner oder eine Organisation kann ein oder mehrere Rollen zugleich wahrnehmen._
+_Bitte beachten: "**Rollen**" sind keine “**Akteure**” eine Einzelperson oder eine Organisation darf zugleich ein oder mehrere Rollen wahrnehmen._
 
 ![MYDATA ROLES](image_0.png)
 
 ### PERSON
 
-Ein Individium. das die Verwendung von seinen personenbezogenen Daten verwaltet, fur die eigenen Zwecke, und Beziehungen mit anderen Unternehmen, Diensten und Organisationen pflegt.
+Ein Individuum. das die Verwendung von seinen personenbezogenen Daten verwaltet, zu eigenen Zwecken, und in Beziehung mit anderen Unternehmen, Diensten und Organisationen steht.
 
 ### DATENQUELLEN
-Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, die andere Rollen (einschliessliche Personen) wünschen könnten zuzugreifen und zu verwenden.
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschliesslich Personen) gerne zugreifen und sie verwenden möchten.
 
-### DATEN nutzende Dienste
+### DATENVERWENDUNGSDIENSTE
 
-Ein Datenverwendungsdienst kann ermaechtigt werden zu holen und verwenden Persönliche Daten aus einer oder mehreren Datenquellen.
+Ein Datenverwendungsdienst kann ermächtigt werden, personale Daten aus einer oder mehreren Datenquellen zu holen und zu verwenden.
 
-### PERSONAL DATen Operateur
+### PERSONALER DATENVERARBEITER
 
-A Personal Datenverartbeiter ermöglicht Indiduen zu sicherem Zuugang, Verwalten udn Nutzen ihrer persönlciehn Daten, und auch den Fluss der persönlcihen Daten zu konntollieren und zwischen Datenquellen und Datenverwendenden Diensten, Individuals können ihr eigener operatoreur sen. In anderen Fällen, verwenden Operateure die Information nocht selbst, sondern other cases, operators are not using the information itself, but enabling connectivity and secure sharing of data between the other roles in the ecosystem.
+Ein Personaler Datenverarbeiter ermöglicht Personen den sicherem Zugang, Verwaltung udn Nutzung ihrer persönlichen Daten, und auch den Fluss der persönlichen Daten zu kontrollieren und zwischen Datenquellen und Datenverwendenden Diensten, Individuals können ihr eigener operatoreur sen. In anderen Fällen, verwenden Operateure die Information nicht selbst, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
 
 ## 3. MYDATA PRINZIPIEN: WAS WIR BEABSICHTIGEN
 
-Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persoenliche Daten produce the shifts that are needed for a human-centric approach to personal data, we commit to working towards and advocating the following principles:
+Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persönliche Daten, verpflichten wir uns auf das Hinwirken und Verteidigen folgender Grundsätze:
 
-### 3.1 HUMAN-CENTRIC CONTROL OF PERSONAL DATA  
+### 3.1 MENSCHENORIENTIERTE KONTROLLE PERSONALER DATEN  
 
-Individuals should be ermächtigte Akteure actors in the management of their personal lives both online and offline. They should be provided with the konkreten Mitteln to understand and effectively control who has access to data about them and how it is used and shared.
+Individuals should be ermächtigt Akteure in der Verwaltung von ihren Privatleben online und offline zu sein. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und ekketiv zu kontrollieren, wer Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
 
-Wir wollen privacy, datensicherheit und Datensparsamkeito become standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke their consent** to share data based on a clear understanding of why, how and for how long their data will be used. Ultimately, we want the terms and conditions for using personal data to become negotiable in a fair way between individuals and organisations.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **understand privacy policies** and how to activate them. We want individuals to be **empowered to give, deny or revoke their consent** to share data based on a clear understanding of why, how and for how long their data will be used. Ultimately, we want the terms and conditions for using personal data to become negotiable in a fair way between individuals and organisations.
 
 ### 3.2 INDIVIDUAL AS THE POINT OF INTEGRATION
 
-The value of personal data grows exponentially with their diversity; however, so does the threat to privacy. This contradiction can be solved if individuals become the "hubs" where, or through which **cross-referencing of personal data** happens.
+Der wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; Jedoch im gleichen Maße die Gefahren für die Privatsphäre. Dieser Gegensatz kann gelöst werden, wenn die Personen die "hubs" werden, an denen das **kreuz-referenzieren von personalen Daten** stattfindet.
 
 By making it possible for individuals to have a 360-degree view of their data and act as their "point of integration", we want to enable a new generation of tools and services that provide deep personalisation and create new data-based knowledge, without compromising privacy nor adding to the amount of personal data in circulation.
 
@@ -78,7 +78,7 @@ We want individuals to be able to **securely manage their personal data** in the
 
 ### 3.4 PORTABILITY: zugung und Wiederverwendung
 
-Die Portierbarkeit von personal data, that allows individuals to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen diensten, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
+Die Portierbarkeit von Personalen Daten, that allows individuals to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen diensten, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability should not be merely a legal right, but combined with practical means.
 
 We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the rechtliche Grundlage (Vertrag, consent, legitimate interest, etc.) of Datensammlung, with possible exceptions for enriched data.
 
@@ -90,15 +90,15 @@ Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, i
 
 ### 3.6 INTEROPERABILITY
 
-Der Sinn von interoperability is to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. waehrend die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
+Der Sinn von interoperabilität ist to decrease friction in the Datenfluss von Datenquellen zu datennutzenden Diensten. während die Moeglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch staendide Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
 
 Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir ständig das auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden bauen auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helfen zu entwickeln sofern erforderlich. 
 
 ## 4. TATEN: Was passieren muss
 
-* **Unterschreiben der Erklörung**, als Privatperson und-oder als Unternehmen. Diese Erklaerung ist Declaration is written in the future tense: if your organisation isn’t quite there, but is committed to moving into this direction, it should still sign it!
+* **Unterschreiben der Erklörung**, als Privatperson und-oder als Unternehmen. Diese Erklaerung richtet sich in die Zukunft: Falls ihre Organisation noch nicht ganz da ist, aber in diese Richtung sich bewegen wird, sollte sie dennoch unterschreiben!
 
-* **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit entwickeln, auf Grundlage ihrer Ideen und praktischen Erfahrungen. Es gibt eine erste Überarbeitung nach 6 Monaten.
+* **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit ändern, auf Grundlage ihrer Ideen und praktischen Erfahrungen. Es gibt eine erste Überarbeitung nach 6 Monaten.
 
 * **Verwende die Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Base your Vertraunsnetzwerk, oder ihre Dienstbedingungen darauf. Verwende sie um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
 
