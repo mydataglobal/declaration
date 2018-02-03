@@ -82,9 +82,9 @@ Die Portierbarkeit von Personalen Daten, that allows individuals to obtain and r
 
 We want to empower individuals to **effectively port their personal data**, both by downloading it auf ihre eigenen Geräte, and by transmitting it to other services. We intend to help Data Sources make these data available sicher und einfach, in einer strukturieren, allgemein üblichen und maschinenlesbaren Format. This applies to all personal data regardless of the rechtliche Grundlage (Vertrag, consent, legitimate interest, etc.) of Datensammlung, with possible exceptions for enriched data.
 
-### 3.5 TRANSPARENCY UND VERANTWORTLICHKEIT
+### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
-Organisations that use a person’s data sollen sagen was sie mit ihnen tun und warum, und sollen machen was sie sagen. what they do with them and why, and should do what they say. Sie sollen Verantwortung über nehmen für die beabsichtigen als auch die unbeabsichtigen Wirkungen des Haltens und Verwendends personaler Daten, einschliesslich, aberr nicht beschränkt auf Sicherheitsvorkommens, und den 'Individuen erlauben sie dafür zur Verntwortung zu nehmen.
+die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen zu verantworten.
 
 Wir wollen sicherstellen, dass **privacy terms and policies reflect reality**, in ways that allow people to make informed choices beforehand and can be verified during and after operations. We want to allow individuals to **understand how and why decisions** based on their data are made. We want to create einfach yu verwendende und sichere Kanöle for individuals to **see and control what happens to their data**, to alert them of possible issues, und algorithmische Entscheidungen zu hinterfragen.
 
