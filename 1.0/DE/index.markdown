@@ -66,13 +66,13 @@ Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktike
 
 ### 3.2 INDIVIDUAL AS THE POINT OF INTEGRATION
 
-Der wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; Jedoch im gleichen Maße die Gefahren für die Privatsphäre. Dieser Gegensatz kann gelöst werden, wenn die Personen die "hubs" werden, an denen das **kreuz-referenzieren von personalen Daten** stattfindet.
+Der Wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen die "Knoten" werden, an denen das **kreuz-referenzieren von personalen Daten** stattfindet.
 
-By making it possible for individuals to have a 360-degree view of their data and act as their "point of integration", we want to enable a new generation of tools and services that provide deep personalisation and create new data-based knowledge, without compromising privacy nor adding to the amount of personal data in circulation.
+Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen to enable a new generation of tools and services that provide deep personalisation und neues Wissen aus der Grundlage von Daten generieren, ohne beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten beizutragen.
 
 ### 3.3 INDIVIDUAL EMPOWERMENT
 
-In a data-driven society, as in any society, individuals should not just be seen as customers or users of pre-defined services and applications. They should be considered **free and autonomous agents**, capable of setting and pursuing their own goals. They should have **agency and initiative**.
+In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **agency and initiative** haben.
 
 We want individuals to be able to **securely manage their personal data** in their own preferred way. We intend to help individuals have the tools, skills and assistance to transform their personal data into useful information, knowledge and autonomous decision-making. We believe that these are the preconditions for fair and beneficial data-based relationships.
 
