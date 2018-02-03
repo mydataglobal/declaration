@@ -19,7 +19,7 @@ Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv versch
 
 ## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
-Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten für eigene Zwecke, und sie sicher unter ihren eigenen Bedingungen zu teilen. Diesen menschenorientierten Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen um anderen zu helfen, das gleich tun können.
+Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten fürs eine Zwecke und sicher unter ihren eigenen Bedingungen zu teilen. Diesen menschenorientierten Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen um anderen zu helfen, das gleich tun können.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
@@ -44,7 +44,8 @@ _Bitte beachten: "**Rollen**" sind keine “**Akteure**” eine Einzelperson ode
 Ein Individuum. das die Verwendung von seinen personenbezogenen Daten verwaltet, zu eigenen Zwecken, und in Beziehung mit anderen Unternehmen, Diensten und Organisationen steht.
 
 ### DATENQUELLEN
-Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschliesslich Personen) gerne zugreifen und sie verwenden möchten.
+
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschliesslich Personen) gerne zugreifen und sie verwenden.
 
 ### DATENVERWENDUNGSDIENSTE
 
@@ -64,11 +65,11 @@ Individuen sollen ermächtigt sein Akteure in der Verwaltung von ihren Privatleb
 
 Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **privacy policies zu verstehen** and how to activate them. We want individuals to be **empowered to give, verweigern oder widerufen ihr Einverständnis** um Daten zu teilen based on a clear understanding of why, how and for über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch personal daten auf faire Weise verhandelbar machen zwischen Einzelpersonen und Organisationen.
 
-### 3.2 INDIVIDUAL ALS DER POINT OF INTEGRATION
+### 3.2 INDIVIDUAL ALS DER KULMINATIONSPUNKT
 
-Der Wert von personalen Daten wächst exponentiell mit ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen die "Knoten" werden, an denen das **kreuz-referenzieren von personalen Daten** stattfindet.
+Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** stattfindet.
 
-Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten generieren, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
+Indem man es möglich macht für individuals einen 360-Grad Blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten generieren, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
 
 ### 3.3 ERMÄCHTIGUNGTE MENSCHEN
 
@@ -78,7 +79,7 @@ Wir wollen, dass Individuen fähig sind auf die eigene Art und Weise **ihre Date
 
 ### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
-Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen Diensten können, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Data portability soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
+Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen Diensten können, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Dataportabilität soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
 
 Wir wollen Individuen ermächtigen **ihre Personalen Daten effektiv zu portieren**, sowohl durch das Herunterladen auf ihre eigenen Geräte als und durch Übermittlung hin zu anderen Diensten. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
 
