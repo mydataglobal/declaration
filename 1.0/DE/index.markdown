@@ -74,7 +74,7 @@ Indem man es möglich macht für individuals einen 360-Grad blick auf ihre Daten
 
 In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen individuals nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen ziele zu setzen und zu verfolgen. Sie sollte **agency and initiative** haben.
 
-We want individuals to be able to **securely manage their personal data** in their own preferred way. We intend to help individuals have the tools, skills and assistance to transform their personal data into useful information, knowledge and autonomous decision-making. We believe that these are the preconditions for fair and beneficial data-based relationships.
+We want individuals to be able to **sicher verwalten ihre personalen Daten** in ihrer eigenen bevorzugten Art. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
 
 ### 3.4 PORTABILITY: zugung und Wiederverwendung
 
@@ -94,17 +94,17 @@ Der Sinn von interoperabilität ist to decrease friction in the Datenfluss von D
 
 Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir ständig das auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten **portierbar und wiederverwertbar** sind, ohne den Verlust der Nutzerkontrolle. Wir werden bauen auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Büchereien und Schemata, oder neue helfen zu entwickeln sofern erforderlich. 
 
-## 4. TATEN: Was passieren muss
+## 4. TATEN: WAS PASSIEREN SOLL
 
-* **Unterschreiben der Erklörung**, als Privatperson und-oder als Unternehmen. Diese Erklaerung richtet sich in die Zukunft: Falls ihre Organisation noch nicht ganz da ist, aber in diese Richtung sich bewegen wird, sollte sie dennoch unterschreiben!
+* **Unterschreiben der Erklärung**, als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht ganz da ist, aber sich in diese Richtung entwickeln wird, sollte sie dennoch unterschreiben!
 
-* **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit ändern, auf Grundlage ihrer Ideen und praktischen Erfahrungen. Es gibt eine erste Überarbeitung nach 6 Monaten.
+* **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
 
-* **Verwende die Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Base your Vertraunsnetzwerk, oder ihre Dienstbedingungen darauf. Verwende sie um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
+* **Verwenden der Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Legen sie ihr Vertraunsnetzwerk, oder ihre Dienstbedingungen auf diese grundlage. Verwende sie sie, um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
 
 ## VERWEISE
 
-Diese Erklärung von Prinzipien ist aus vielen Quellen inspiriert, die wichtigsten davon sind:
+Diese Erklärung von Prinzipien haben viele Quellen inspiriert. Die wichtigsten davon sind:
 
 * Die [MyData Principles](https://github.com/okffi/mydata) (Open Knowledge Finland)
 
