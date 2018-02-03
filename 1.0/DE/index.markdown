@@ -27,7 +27,7 @@ In vielen Ländern geniessen Individuen gesetzlichen Datenschutz seit Jahrzehnte
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Data protection regulation and Unternehmensethik-Leitlinien are designed to protect people from abuse and misuse of their personal data by organisations. Obwohl sie notwendig belieben, we intend to change die öblichen Pratiken hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Beispiele fur solche Verwendungen schliessen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persoenlichen Bedinungen des Einzelnen. 
+Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor Missbrauch ihrer persönlichen Daten durch Organisation ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persoenlichen Bedingungen des Einzelnen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
