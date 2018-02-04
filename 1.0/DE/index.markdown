@@ -27,11 +27,11 @@ In vielen Ländern geniessen Individuen seit Jahrzehnten gesetzlichen Datenschut
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor Missbrauch ihrer persönlichen Daten durch Organisation ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Situation in der Individuen geschützt und ermöchtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram. Verarbeiten von Daten aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenen, Entscheidungsfindung, und Daten geteilt unter den persönlichen Bedingungen des Einzelnen. 
+Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Lage, in der Individuen geschützt und ermächtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram, Datenverarbeitung aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenten, sowie Entscheidungsfindung und Datenteilen unter den persönlichen Konditionen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die in der Lage sind die massenhaft personaler Daten zu sammeln und zu verarbeiten. Jene Platformen schnüren Märkte zu, nicht nur für die Wettbewerber sondern auch für alle Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschraenkten Datenfluss - nach individueller freier Entscheidung, ohne globale "choke points", und um Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft zu schaffen.
+Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die massenhaft personaler Daten sammeln und verarbeiten können. Jene Platformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern auch für die meisten anderen Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale "choke points", und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
 
 ## 2. MYDATA ROLLEN: WER TUT WAS
 
@@ -45,7 +45,7 @@ Ein Individuum. das die Verwendung von seinen personenbezogenen Daten verwaltet,
 
 ### DATENQUELLEN
 
-Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschliesslich Personen) gerne zugreifen und sie verwenden.
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) gerne zugreifen und sie verwenden.
 
 ### DATENVERWENDUNGSDIENSTE
 
@@ -53,29 +53,29 @@ Ein Datenverwendungsdienst kann ermächtigt werden, personale Daten aus einer od
 
 ### PERSONALER DATENVERARBEITER
 
-Ein Personaler Datenverarbeiter ermöglicht Personen den sicherem Zugang, Verwaltung udn Nutzung ihrer persönlichen Daten, und auch den Fluss der persönlichen Daten zu kontrollieren und zwischen Datenquellen und Datenverwendenden Diensten, Individuals können ihr eigener operatoreur sen. In anderen Fällen, verwenden Operateure die Information nicht selbst, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
+Ein Personaler Datenverarbeiter ermöglicht Personen den sicherem Zugang, die Verwaltung und Nutzung ihrer persönlichen Daten, aber auch den Fluss der persönlichen Daten zwischen Datenquellen und Datenverwendenden Diensten zu kontrollieren. Individuen können ihr eigener Verarbeiter sein. In anderen Fällen verwenden Verarbeiter die Information nicht selbst, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
 
 ## 3. MYDATA PRINZIPIEN: WAS WIR BEABSICHTIGEN
 
-Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz fuer persönliche Daten, verpflichten wir uns auf das Hinwirken und Verteidigen folgender Grundsätze:
+Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz für persönliche Daten zu realisieren, verpflichten wir uns auf das Hinwirken und Verteidigen folgender Grundsätze:
 
 ### 3.1 MENSCHENORIENTIERTE KONTROLLE PERSONALER DATEN  
 
-Individuen sollen ermächtigt sein Akteure in der Verwaltung von ihren Privatleben online und offline zu sein. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
+Individuen sollen ermächtigt sein als Akteure in der Verwaltung von ihrem Privatleben online und offline. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer den Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
 
-Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **privacy policies zu verstehen** and how to activate them. We want individuals to be **empowered to give, verweigern oder widerufen ihr Einverständnis** um Daten zu teilen based on a clear understanding of why, how and for über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch personal daten auf faire Weise verhandelbar machen zwischen Einzelpersonen und Organisationen.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **Datenschutzerklärungen zu verstehen** und wie sie zur Geltung kommen. Wir wollen Individuen **dazu ermächtigt ihr Einverständnis für die Datenteilung zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Verständnisses darüber für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch Personaler Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
 
-### 3.2 INDIVIDUAL ALS DER KULMINATIONSPUNKT
+### 3.2 DER EINZELNE ALS DER ANKERPUNKT
 
 Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** stattfindet.
 
-Indem man es möglich macht für individuals einen 360-Grad Blick auf ihre Daten zu haben und als ihr "point of integration" zu ..., wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten generieren, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
+Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum "point of integration" bestimmt, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
 
-### 3.3 ERMÄCHTIGUNGTE MENSCHEN
+### 3.3 ERMÄCHTIGTE MENSCHEN
 
-In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **free and autonomous Akteure** betrachtet werden, mit der Möglichkeit ihre eigenen Ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** haben.
+In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **freie und autonome Akteure** betrachtet werden mit der Möglichkeit sich eigenen Ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** besitzen.
 
-Wir wollen, dass Individuen fähig sind auf die eigene Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalöen Daten in nützliche Informationen, wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
+Wir wollen, dass Individuen fauf die ihre Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalichen Daten in nützliche Informationen, Wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
 
 ### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
