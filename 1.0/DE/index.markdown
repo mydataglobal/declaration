@@ -79,7 +79,7 @@ Wir wollen, dass Individuen fauf die ihre Art und Weise **ihre Daten sicher verw
 
 ### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
-Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and reuse their personal data for their eigenen Zwecke purposes und zwischen verschiedenen Diensten können, ist der Schlüssel to make the shift from data in closed silos to data which become reusable resources. Dataportabilität soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
+Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and Wiederverwerten ihrer personal data für ihre eigenen Zwecke und zwischen verschiedenen Diensten können, ist der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
 
 Wir wollen Individuen ermächtigen **ihre Personalen Daten effektiv zu portieren**, sowohl durch das Herunterladen auf ihre eigenen Geräte als und durch Übermittlung hin zu anderen Diensten. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
 
@@ -97,11 +97,11 @@ Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir a
 
 ## 4. TATEN: WAS PASSIEREN SOLL
 
-* **Unterschreiben der Erklärung**, als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht ganz da ist, aber sich in diese Richtung entwickeln wird, sollte sie dennoch unterschreiben!
+* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht ganz da ist, aber sich in diese Richtung entwickeln wird, sollte sie dennoch unterschreiben!
 
-* **Kommentieren der Erklärung**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
+* **Die Erklärung kommentieren**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
 
-* **Verwenden der Erklarung** um die eigenen Projekte und Absichten zu unterstützen. Legen sie ihr Vertraunsnetzwerk, oder ihre Dienstbedingungen auf diese Grundlage. Verwende sie sie, um Kunden, Partner, Interessengruppen etc. zu lobbyieren und überzeugen.
+* **Die Erklärung verwenden** um eigene Projekte und Absichten zu unterstützen. Legen sie ihr Vertraunsnetzwerk, oder ihre Dienstbedingungen auf diese Grundlage. Verwenden sie die Erklärung für Lobbying und Überzeugung von Kunden, Partnern, Interessengruppen etc.
 
 ## VERWEISE
 
