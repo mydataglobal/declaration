@@ -3,13 +3,13 @@ _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen,
 
 _In den vergangenen Jahren haben wir ein Netzwerk gebildet, in dem die Teilnehmer miteinander Erfahrungen austauschen, zusammen Projekte entwickeln, sich zur MyData Konferenz treffen, und sich gemeinsam auf die Reise machen zu einem menschenzentrierten Ansatz für personale Daten._
 
-Nun ist die Zeit gekommen diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft zu belegen. Heute finden wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln.  Nimm Teil an der Wende der personalen Daten. Nimm Teil an der Gründung der MyData Bewegung._
+Nun ist die Zeit gekommen diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft zu belegen. Heute finden wir, ist es an der Zeit die uns leitenden Werte öffentlich zu bekennen und uns an all jene zu wenden, die sie teilen, um danach zu handeln. Nimm Teil an der Wende der personalen Daten. Nimm Teil an der Gründung der MyData Bewegung._
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
 Weil die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher sicherzustellen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliches Erkenntnisse aus ihnen ziehen darf und sich seinen Anteil an ihrem Nutzen sichern.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu horten, weiter zu geben und mit ihnen Entscheidungen zu treffen, wogegen Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Wir glauben, dies sind die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
+Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht haben, personenbezogene Daten zu horten, weiter zu geben und mit ihnen Entscheidungen zu treffen, wogegen Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Dies betrachten wir als die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Fundamente gilt:
 
 * Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen sowie Menschen und Organisationen;
 
@@ -23,7 +23,7 @@ Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten fürs 
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In vielen Ländern geniessen Individuen seit Jahrzehnten gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, die so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
+In vielen Ländern geniessen Individuen seit Jahrzehnten gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
