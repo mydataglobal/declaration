@@ -27,11 +27,11 @@ In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datens
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Lage, in der Individuen geschützt und ermächtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram, Datenverarbeitung aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenten, sowie Entscheidungsfindung und Datenteilen unter den persönlichen Konditionen. 
+Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obschon sie notwendig bleiben, wollen wir die üblichen Praktiken verändern hin zu einer Lage, in der einzelne geschützt und ermächtigt sind. Beispiele für solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram, Datenverarbeitung aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenten, sowie Entscheidungsfindung und Datenteilen unter den persönlichen Konditionen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Die gegenwatige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die massenhaft personaler Daten sammeln und verarbeiten können. Jene Platformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern auch für die meisten anderen Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale "choke points", und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
+Die gegenwärtige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die massenhaft personale Daten sammeln und verarbeiten können. Jene Plattformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern auch für die meisten anderen Unternehmen, die rikieren, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschieht, beabsichten wir einen wahren Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale Engpässe, und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
 
 ## 2. MYDATA ROLLEN: WER TUT WAS
 
@@ -67,7 +67,7 @@ Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktike
 
 ### 3.2 DER EINZELNE ALS DER ANKERPUNKT
 
-Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz lässt sich auflösen, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** stattfindet.
+Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz ist auflösbar, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** stattfindet.
 
 Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum "point of integration" bestimmt, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
 
