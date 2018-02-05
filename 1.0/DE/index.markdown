@@ -19,7 +19,7 @@ Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv versch
 
 ## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
-Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten fürs eine Zwecke und sicher unter ihren eigenen Bedingungen zu teilen. Diesen menschenorientierten Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen um anderen zu helfen, das gleich tun können.
+Das oberste Ziel ist es einzelne zu ermächtigen für seine Zwecke und sicher unter den eigenen Bedingungen seinen persönlichen Daten zu teilen. Diesen menschenzentrierte Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen um anderen zu helfen, das gleich tun können.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
