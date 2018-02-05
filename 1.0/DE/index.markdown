@@ -23,11 +23,11 @@ Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten fürs 
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In vielen Ländern geniessen Individuen seit Jahrzehnten gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
+In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als neue Normalität. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, so einfach und effizient sind wie die besten Online-Dienste von heute und morgen.
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Lage, in der Individuen geschützt und ermächtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram, Datenverarbeitung aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenten, sowie Entscheidungsfindung und Datenteilen unter den persönlichen Konditionen. 
+Datenschutzregulierung and Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie notwendig bleiben, wollen wir die üblichen Pratiken verändern hin zu einer Lage, in der Individuen geschützt und ermächtigt sind. Beispiele fur solche Verwendungen umfassen die Vereinfachung von administrativen Papierkram, Datenverarbeitung aus zahlreichen Quellen zur Verbeserung der Eigenwissens, personalisierte KI Assistenten, sowie Entscheidungsfindung und Datenteilen unter den persönlichen Konditionen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
