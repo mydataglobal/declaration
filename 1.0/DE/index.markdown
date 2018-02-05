@@ -93,7 +93,7 @@ Wir wollen sicherstellen, dass **Datenschutzerklärungen und  and policies der R
 
 Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern. während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Durch ständiges Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards** wollenn wir das erreichen.
 
-Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, Open APIs, Protokolle, Applikationen und Infrastruktur hinwirken, damit alle personalen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwicklen,  bzw., sofern erforderlich, zur Entwicklung von Neuen beitragen. 
+Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, Open APIs, Protokolle, Applikationen und Infrastruktur hinwirken, damit alle personalen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwicklen, bzw., sofern erforderlich, zur Entwicklung von Neuen beitragen. 
 
 ## 4. TATEN: WAS PASSIEREN SOLL
 
@@ -101,7 +101,7 @@ Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir
 
 * **Die Erklärung kommentieren**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
 
-* **Die Erklärung verwenden** um eigene Projekte und Absichten zu unterstützen. Legen sie ihr Vertraunsnetzwerk, oder ihre Dienstbedingungen auf diese Grundlage. Verwenden sie die Erklärung für Lobbying und Überzeugung von Kunden, Partnern, Interessengruppen etc.
+* **Die Erklärung verwenden** um eigene Projekte und Absichten zu unterstützen. Stellen sie ihr Vertrauensnetzwerk oder ihre Dienstekonditionen auf diese Grundlage. Verwenden sie die Erklärung für das Lobbying und das Überzeugung der Kunden, Partner und Interessengruppen etc.
 
 ## VERWEISE
 
