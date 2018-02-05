@@ -75,13 +75,13 @@ Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und s
 
 In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **freie und autonome Akteure** betrachtet werden mit der Möglichkeit sich eigenen Ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** besitzen.
 
-Wir wollen, dass Individuen fauf die ihre Art und Weise **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalichen Daten in nützliche Informationen, Wissen und autonomes Entscheidungen zu verwandeln. Wir glauben, dass dies die Vorbedingungen für faire und nutzenstiftende datenbasiere Beziehungen sind.
+Wir wollen, dass Individuen **ihre Daten sicher verwalten** können wie sie es wollen. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalen Daten in nützliche Informationen, Wissen und autonomes Entscheidungen zu verwandeln. Dies sind, so glauben wir, die Vorbedingungen für faire und nutzenstiftende datenbasierte Beziehungen.
 
 ### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
-Die Portierbarkeit von Personalen Daten, damit Individuen to obtain and Wiederverwerten ihrer personal data für ihre eigenen Zwecke und zwischen verschiedenen Diensten können, ist der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit praktischen Mitteln verbunden sein.
+Die Portierbarkeit von Personalen Daten, damit Individuen erlangen and Wiederverwerten ihrer Personalen Daten für ihre eigenen Zwecke und zwischen verschiedenen Diensten können, ist der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit ganz praktischen Mitteln verbunden sein.
 
-Wir wollen Individuen ermächtigen **ihre Personalen Daten effektiv zu portieren**, sowohl durch das Herunterladen auf ihre eigenen Geräte als und durch Übermittlung hin zu anderen Diensten. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
+Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
