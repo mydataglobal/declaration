@@ -81,7 +81,7 @@ Wir wollen, dass Individuen **ihre Daten sicher verwalten** können wie sie es w
 
 Die Portierbarkeit von Personalen Daten, damit Individuen erlangen and Wiederverwerten ihrer Personalen Daten für ihre eigenen Zwecke und zwischen verschiedenen Diensten können, ist der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit ganz praktischen Mitteln verbunden sein.
 
-Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personal data ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
+Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personalen Daten ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
@@ -91,9 +91,9 @@ Wir wollen sicherstellen, dass **Datenschutzerklärungen und  and policies der R
 
 ### 3.6 INTEROPERABILITÄT
 
-Der Sinn von interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern. während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Das soll erreicht werden durch ständige Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards**.
+Der Sinn von interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern. während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Durch ständiges Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards** wollenn wir das erreichen.
 
-Um die positiven Wirkungenn von offenen Ökosystemen zu maximieren, werden wir andauernd auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden auf der Basis von gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata bauen, oder, sofern erforderlich, neue helfen zu entwickeln. 
+Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, Open APIs, Protokolle, Applicationen und Infrastruktur hinwirken, damit alle personlichen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwicklen, oder, sofern erforderlich, neue helfen zu entwickeln. 
 
 ## 4. TATEN: WAS PASSIEREN SOLL
 
