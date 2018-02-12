@@ -19,11 +19,11 @@ Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv versch
 
 ## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
-Das oberste Ziel ist es einzelne zu ermächtigen seinen persönlichen Daten unter den eigenen Bedingungen für seine Zwecke und sicher zu teilen. Diesen menschenzentrierte Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen damit andere genauso verfahren können.
+Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten unter den eigenen Bedingungen für ihre Zwecke und sicher zu teilen. Diesen menschenzentrierte Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen damit andere genauso verfahren können.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
-In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten verunklart durch die unternehmerische Praxis. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als den neuen Normalfall. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, so einfach und effizient wie die besten Online-Dienste von heute und morgen.
+In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten durch die unternehmerische Praxis verunklart. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als den neuen Normalfall. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, so einfach und effizient wie die besten Online-Dienste von heute und morgen.
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
