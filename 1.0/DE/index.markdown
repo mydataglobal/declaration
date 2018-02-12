@@ -41,11 +41,11 @@ _Bitte beachten: "**Rollen**" sind keine “**Akteure**” eine Einzelperson ode
 
 ### PERSON
 
-Ein Individuum. das die Verwendung von seinen personenbezogenen Daten verwaltet, zu eigenen Zwecken, und in Beziehung mit anderen Unternehmen, Diensten und Organisationen steht.
+Ein Individuum, das die Verwendung von seinen personenbezogenen Daten verwaltet, zu eigenen Zwecken, und in Beziehung zu anderen Unternehmen, Diensten und Organisationen tritt.
 
-### DATENQUELLEN
+### DATENQUELLE
 
-Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) gerne zugreifen und sie verwenden.
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) zugreifen wollen um sie zu verwenden.
 
 ### DATENVERWENDUNGSDIENSTE
 
@@ -53,29 +53,29 @@ Ein Datenverwendungsdienst kann ermächtigt werden, personale Daten aus einer od
 
 ### PERSONALER DATENVERARBEITER
 
-Ein Personaler Datenverarbeiter ermöglicht Personen den sicherem Zugang, die Verwaltung und Nutzung ihrer persönlichen Daten, aber auch den Fluss der persönlichen Daten zwischen Datenquellen und Datenverwendenden Diensten zu kontrollieren. Individuen können ihr eigener Verarbeiter sein. In anderen Fällen verwenden Verarbeiter die Information nicht selbst, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
+Ein Personaler Datenverarbeiter ermöglicht Personen den sicherem Zugang, die Verwaltung und Nutzung ihrer persönlichen Daten, aber auch den Fluss der persönlichen Daten zu und zwischen Datenquellen und Datenverwendenden Diensten zu kontrollieren. Individuen können ihr eigener Verarbeiter sein. In anderen Fällen verwenden Verarbeiter die Information nicht als solche, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
 
-## 3. MYDATA PRINZIPIEN: WAS WIR BEABSICHTIGEN
+## 3. MYDATA PRINZIPIEN: WAS WIR ERREICHEN WOLLEN
 
 Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz für persönliche Daten zu realisieren, verpflichten wir uns auf das Hinwirken und Verteidigen folgender Grundsätze:
 
-### 3.1 MENSCHENORIENTIERTE KONTROLLE PERSONALER DATEN  
+### 3.1 VERWALTUNG PERSONALER DATEN MIT DEM MENSCH IM ZENTRUM  
 
-Individuen sollen ermächtigt sein als Akteure in der Verwaltung von ihrem Privatleben online und offline. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer den Zugriff auf Daten über sie hat und wie sie verwendet und gebraucht werden.
+Individuen sollen ermächtigt sein als Akteure in der Verwaltung von ihrem Privatleben online und offline. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer den Zugriff auf Daten über sie hat und wie sie verwendet und geteilt werden.
 
-Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als Standardpraktiken im Entwurf von Applikationens. Wir wollen want organisations to enable individuals to **Datenschutzerklärungen zu verstehen** und wie sie zur Geltung kommen. Wir wollen Individuen **dazu ermächtigt ihr Einverständnis für die Datenteilung zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Verständnisses darüber für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Schlussendlich wollen wie die Bedingungen für den Gebrauch Personaler Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als zukünftige Standardpraktiken in der Gestaltung von Applikationens. Organisationen sollen Personen ermöglichen **Datenschutzerklärungen zu verstehen** und zur Anwendung zu bringen. Wir wollen Individuen **dazu ermächtigt ihr Einverständnis für das Datenteilen zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Bildes darüber, für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Letztendlich wollen wie die Bedingungen für das Verwenden personaler Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
 
-### 3.2 DER EINZELNE ALS DER ANKERPUNKT
+### 3.2 DER EINZELNE ALS DER VERKNÜPFUNGSPUNKT
 
-Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz ist auflösbar, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** stattfindet.
+Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz ist auflösbar, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** geschieht.
 
-Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum "point of integration" bestimmt, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Volumen der zirkulierenden Daten kommt.
+Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum Verknüpfungspunkt macht, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung leisten und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Anwachsen der zirkulierenden Daten kommt.
 
 ### 3.3 ERMÄCHTIGTE MENSCHEN
 
-In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **freie und autonome Akteure** betrachtet werden mit der Möglichkeit sich eigenen Ziele zu setzen und zu verfolgen. Sie sollte **Akteursmacht und Initiative** besitzen.
+In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **freie und autonome Akteure** gesehen werden mit der Möglichkeit sich eigenen Ziele zu setzen und zu verfolgen. Sie sollten **Akteursmacht und Initiative** besitzen.
 
-Wir wollen, dass Individuen **ihre Daten sicher verwalten** können wie sie es wollen. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen um ihrer personalen Daten in nützliche Informationen, Wissen und autonomes Entscheidungen zu verwandeln. Dies sind, so glauben wir, die Vorbedingungen für faire und nutzenstiftende datenbasierte Beziehungen.
+Wir wollen, dass Individuen wie es ihnen beliebt **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen zu besitzen um ihrer personalen Daten in nützliche Informationen, in Wissen und in autonome Entscheidungen zu verwandeln. Dies sind, so glauben wir, die Vorbedingungen für faire und nutzenstiftende datenbasierte Beziehungen.
 
 ### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
