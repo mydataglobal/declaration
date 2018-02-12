@@ -85,9 +85,9 @@ Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächti
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
-Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen zu verantworten.
+Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen verantworten.
 
-Wir wollen sicherstellen, dass **Datenschutzerklärungen und  and policies der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt informierte Entscheidungen zu treffen im vornherein und wahrend und nach Verarbeitungsschritten überprüfbar. Wir wollen individen in die Lage versetzen zu verstehen **verstehen wie und welche Entscheidungen** auf Grundlöage ihrer Daten getroffen wurde. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und kontrolieren, was mit ihren Daten geschieht**, sie über mögliche vorfälle zu benachrichtigen und algorthmische Entscheidungen zu hinterfragen.
+Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubtm im vornherein und wahrend und nach Verarbeitungsschritten überprüfbar, informierte Entscheidungen zu treffen . Wir wollen individen in die Lage versetzen zu verstehen **verstehen wie und welche Entscheidungen** auf Grundlöage ihrer Daten getroffen wurde. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und kontrolieren, was mit ihren Daten geschieht**, sie über mögliche Vorfälle zu benachrichtigen und algorythmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITÄT
 
