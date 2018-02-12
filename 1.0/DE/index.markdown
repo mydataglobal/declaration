@@ -97,7 +97,7 @@ Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir
 
 ## 4. AKTIVITÄTEN: WAS JETZT WEITER PASSIEREN SOLL
 
-* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollte sie nichtsdestotrotz unterschreiben!
+* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollte sie trotzden unterschreiben!
 
 * **Die Erklärung kommentieren**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
 
