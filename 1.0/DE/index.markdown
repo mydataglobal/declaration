@@ -95,7 +95,7 @@ Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von Datenquelle
 
 Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, offene APIs, Protokolle, Applikationen und Infrastruktur hinwirken, damit alle personalen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwickeln, bzw., falls erforderlich, zur Entwicklung von neuen beitragen. 
 
-## 4. AKTIVITÄTEN: WAS JETZT GESCHEHEN SOLL
+## 4. AKTIVITÄTEN: WAS JETZT WEITER PASSIEREN SOLL
 
 * **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollte sie nichtsdestotrotz unterschreiben!
 
