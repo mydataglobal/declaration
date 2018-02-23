@@ -97,15 +97,15 @@ Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir
 
 ## 4. AKTIVITÄTEN: WAS JETZT WEITER PASSIEREN SOLL
 
-* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollte sie trotzden unterschreiben!
+* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollten Sie trotzden unterschreiben!
 
-* **Die Erklärung kommentieren**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
+* **Die Erklärung kommentieren**. Diese Erklärung wird auf Grundlage Ihrer Ideen und praktischen Erfahrungen über die Zeit angepasst. Die erste Überarbeitung folgt nach 6 Monaten.
 
-* **Die Erklärung verwenden** um eigene Projekte und Absichten zu unterstützen. Stellen sie ihr Vertrauensnetzwerk oder ihre Dienstekonditionen auf diese Grundlage. Verwenden sie die Erklärung für das Lobbying und zum Überzeugen der Kunden, Partner und Interessengruppen usf.
+* **Die Erklärung verwenden** zur Unterstützung eigener Projekte und Absichten. Stellen Sie Ihr Vertrauensnetzwerk oder Ihre Dienstekonditionen auf diese Grundlage. Verwenden Sie die Erklärung für das Lobbying und zum Überzeugen der Kunden, Partner und Interessengruppen usf.
 
 ## VERWEISE
 
-Diese Erklärung von Prinzipien haben viele Quellen inspiriert. Die wichtigsten davon sind:
+Diese Erklärung von Prinzipien ist aus vielen Quellen inspiriert. Die wichtigsten davon sind:
 
 * Die [MyData Principles](https://github.com/okffi/mydata) (Open Knowledge Finland)
 
