@@ -3,7 +3,7 @@ _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen,
 
 _In den vergangenen Jahren haben wir zusammen einen Netzwerk gebildet, in dem die Teilnehmer Erfahrungen teilen, zusammen Projekte entwickeln, sich auf der MyData Konferenz treffen, und sich gemeinsam auf die Reise begeben zu einem menschenzentrierten Ansatz für personale Daten._
 
-Nun ist die Zeit reif dafür, diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, um danach zu handeln. Nehmen Sie teil an dem Wandel der personalen Daten. Nehmen Sie teil an der Gründung der MyData Bewegung._
+Nun ist die Zeit dafür reif, diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, um danach zu handeln. Nehmen Sie teil an dem Wandel der personalen Daten. Nehmen Sie teil an der Gründung der MyData Bewegung._
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
