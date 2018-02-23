@@ -21,7 +21,7 @@ Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen versch
 
 Das oberste Ziel ist Einzelpersonen zu ermächtigen ihre persönlichen Daten sicher und unter den eigenen Bedingungen für ihre Zwecke zu teilen. Diesen menschenzentrierten Ansatz wollen und werden wir bei unseren eigenen Diensten anwenden, und Werkzeuge bauen und Knowhow teilen, damit andere genauso verfahren können.
 
-### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
+### 1.1. VON FÖRMLICHEN ZU ANWENDBAREN RECHTEN
 
 In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datenschutz. Doch ihre Rechte sind weitgehend eine Formsache geblieben: kaum bekannt, schwer durchzusetzen, und nicht selten durch die unternehmerische Praxis verunklart. Wir wollen im Zusammenspiel von Menschen und Organisationen echte Transparenz und wahrhaft informiertes Einverständnis als den neuen Normalfall. Wir wollen Zugang, Richtigstellung, Portierbarkeit und das Recht auf Vergessenwerden als "ein-Klick Rechte". Rechte, so einfach und effizient wie die besten Online-Dienste von heute und morgen.
 
@@ -33,7 +33,7 @@ Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz 
 
 Die gegenwärtige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die personale Daten massenhaft sammeln und verarbeiten können. Jene Plattformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern tun das auch für die meisten anderen Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschehen soll, beabsichten wir einen echten Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale Engpässe, und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
 
-## 2. MYDATA ROLLEN: WER TUT WAS
+## 2. MYDATA ROLLEN: WER MACHT WAS
 
 _Bitte beachten: "**Rollen**" sind keine “**Akteure**” eine Einzelperson oder eine Organisation darf zugleich ein oder mehrere Rollen wahrnehmen._
 
