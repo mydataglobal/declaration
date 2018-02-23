@@ -31,7 +31,7 @@ Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Die gegenwärtige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die personale Daten massenhaft sammeln und verarbeiten können. Jene Plattformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern tun das auch für die meisten anderen Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschehen soll, beabsichten wir einen echten Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale Engpässe, und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
+Die gegenwärtige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die personale Daten massenhaft sammeln und verarbeiten können. Jene Plattformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern tun das auch für die meisten anderen Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen darüber bestimmen lässt, was mit seinen Daten geschehen darf, beabsichten wir einen echten Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale Engpässe, und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
 
 ## 2. MYDATA ROLLEN: WER MACHT WAS
 
