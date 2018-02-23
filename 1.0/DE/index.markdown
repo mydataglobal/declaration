@@ -45,7 +45,7 @@ Ein Individuum, das zu eigenen Zwecken die Verwendung von seinen personenbezogen
 
 ### DATENQUELLE
 
-Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) zugreifen wollen um sie zu verwenden.
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) zur Verwendung zugreifen möchten.
 
 ### DATENVERWENDUNGSDIENSTE
 
