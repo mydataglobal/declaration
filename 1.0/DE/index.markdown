@@ -91,7 +91,7 @@ Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Real
 
 ### 3.6 INTEROPERABILITÄT
 
-Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern, während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen bleibt. Darauf wollen wir durch ständiges Anstreben von **gemeinsamen Geschäftspraktiken und technischen Standards** hinwirken.
+Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von den Datenquellen zu den datennutzenden Diensten zu verringern, während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen bleibt. Darauf wollen wir durch kontinuierliches Anstreben von **gemeinsamen Geschäftspraktiken und technischen Standards** hinwirken.
 
 Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, offene APIs, Protokolle, Applikationen und Infrastruktur hinwirken, damit alle personalen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwickeln, bzw., falls erforderlich, zur Entwicklung von neuen beitragen. 
 
