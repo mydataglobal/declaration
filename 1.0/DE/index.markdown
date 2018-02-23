@@ -1,5 +1,5 @@
 ---
-_Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Ämter und Entwickler. In der vergangenen Zeit verwendeten wir recht verschiedene Begrifflichkeiten für eine Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) usw. Gemeinsam war das Ziel: **Jeden Einzelnen mit seinen personenbezogenen Daten zu bemächtigen, für sich und seine Netzwerk Wissen zu generieren, informiert Entscheidungen zu treffen und mit anderen und im organisatorischen Umfeld bewusster und effizienter zusammen zu arbeiten**_
+_Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, Ämter und Entwickler. In der vergangenen Zeit verwendeten wir recht verschiedene Begrifflichkeiten für eine Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) uvm. Gemeinsam war das Ziel: **Jeden Einzelnen mit seinen personenbezogenen Daten zu bemächtigen, für sich und seine Netzwerk Wissen zu generieren, informiert Entscheidungen zu treffen und bewusster und effizienter mit anderen und im organisatorischen Umfeld zusammen zu arbeiten**_
 
 _In den vergangenen Jahren haben wir zusammen ein Netzwerk gebildet, in dem die Teilnehmer miteinander Erfahrungen austauschen, zusammen Projekte entwickeln, sich auf der MyData Konferenz treffen, und sich gemeinsam auf die Reise machen zu einem menschenzentrierten Ansatz für personale Daten._
 
@@ -7,9 +7,9 @@ Nun ist die Zeit reif dafür, diese Arbeit an die Öffentlichkeit zu tragen und 
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
-Weil die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher dafür zu sorgen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliches Erkenntnisse aus ihnen ziehen darf und sich seinen Anteil an ihrem Nutzen sichert.
+Da die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher dafür zu sorgen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliche Erkenntnisse aus ihnen ziehen darf und sich seinen Anteil an ihrem Nutzen sichert.
 
-Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen verschoben, welche die alleinige Macht besitzen, die personenbezogenen Daten zu sammeln, weiter zu geben und mit ihnen Entscheidungen zu treffen, während Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Dies betrachten wir als die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Grundsätze gilt:
+Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen verschoben, welche die alleinige Macht besitzen, die personenbezogenen Daten zu sammeln, weiter zu geben und mit ihnen Entscheidungen zu treffen, während Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Dies betrachten wir als die Voraussetzung für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Grundsätze gilt:
 
 * Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen, aber auch Menschen und Organisationen;
 
@@ -19,7 +19,7 @@ Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen versch
 
 ## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
-Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten sicher und unter den eigenen Bedingungen für ihre Zwecke zu teilen. Diesen menschenzentrierten Ansatz wollen wir bei unseren eigenen Diensten anwenden und beherzigen, und Werkzeuge bauen und Knowhow teilen, damit andere genauso verfahren können.
+Das oberste Ziel ist Einzelpersonen zu ermächtigen ihre persönlichen Daten sicher und unter den eigenen Bedingungen für ihre Zwecke zu teilen. Diesen menschenzentrierten Ansatz wollen und werden wir bei unseren eigenen Diensten anwenden, und Werkzeuge bauen und Knowhow teilen, damit andere genauso verfahren können.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
