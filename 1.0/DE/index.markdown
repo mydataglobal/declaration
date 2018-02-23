@@ -1,9 +1,9 @@
 ---
 _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen, öffentliche Stellen und Entwickler. In den letzten Jahren verwendeten wir recht verschiedene Begrifflichkeiten für eine Sache: MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) uvm. Gemeinsam war das Ziel: **Die Ermächtigung von jedem mit seinen personenbezogenen Daten; also jemanden dabei zu helfen für sich und sein Umfeld Wissen zu generieren, informiert Entscheidungen zu treffen und bewusster und effizienter mit anderen aber auch mit Organisationen zusammen zu arbeiten**_
 
-_In den vergangenen Jahren haben wir zusammen einen Netzwerk gebildet, in dem die Teilnehmer Erfahrungen teilen, zusammen Projekte entwickeln, sich auf der MyData Konferenz treffen, und sich gemeinsam auf die Reise begeben zu einem menschenzentrierten Ansatz für personale Daten._
+_In den vergangenen Jahren haben wir zusammen einen Netzwerk gebildet, in dem die Teilnehmer Erfahrungen teilen, zusammen Projekte entwickeln, sich auf der MyData Konferenz treffen, und eine gemeinsame Anstrengung für einen menschenzentrierten Ansatz der persönlichen Daten zu unternehmen._
 
-Nun ist die Zeit dafür reif, diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, um danach zu handeln. Nehmen Sie teil an dem Wandel der personalen Daten. Nehmen Sie teil an der Gründung der MyData Bewegung._
+Nun ist die Zeit dafür reif, diese Ergebnisse an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, damit wir danach handeln. Beteiligen Sie sich, das Paradigma der personalen Daten unzukehren. Nehmen Sie teil an der Gründung der MyData Bewegung._
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
