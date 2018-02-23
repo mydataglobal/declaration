@@ -27,7 +27,7 @@ In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datens
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Gleichwohl sie erforderlich bleiben, wollen wir die üblichen Praktiken verändern hin zu einer Lage, in der jeder einzelne geschützt und ermächtigt ist, die Daten zu verwenden, die über ihn vorliegen. Als Beispiele für solche Verwendungen sind zu nennen: die Vereinfachung von administrativem Papierkram, die Datenverarbeitung aus zahlreichen Quellen zur Stärkung des Eigenwissens, personalisierte KI-Assistenten, sowie die Entscheidungsfindung und das Datenteilen unter den eigenen Konditionen. 
+Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie weiterhin erforderlich bleiben, wollen wir die üblichen Praktiken verändern dahingendend, dass jeder einzelne geschützt und ermächtigt ist, die Daten zu verwenden, die über ihn vorliegen. Als Beispiele für solche Verwendungen sind zu nennen: bürokratische Vereinfachung, die Datenverarbeitung aus zahlreichen Quellen zur Stärkung des Eigenwissens, personalisierte KI-Assistenten, sowie die Entscheidungsfindung und das Datenteilen unter den eigenen Konditionen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
