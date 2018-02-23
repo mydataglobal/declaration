@@ -85,7 +85,7 @@ Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächti
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
-Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnissen, und sich gegenüber den Betroffenen verantworten.
+Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum sie es tun, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnissen, und sich gegenüber den Betroffenen verantworten.
 
 Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt im Vorfeld, während und nach den Verarbeitungsschritten überprüfbare, informierte Entscheidungen zu treffen. Wir wollen Individen in die Lage versetzen, zu verstehen **wie und auf welche Weise Entscheidungen** auf Grundlage ihrer Daten getroffen wurden. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und nachzuvollziehen, was mit ihren Daten geschieht**, sie über mögliche Vorfälle zu benachrichtigen und algorithmische Entscheidungen zu hinterfragen.
 
