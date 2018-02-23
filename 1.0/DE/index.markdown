@@ -7,15 +7,15 @@ Nun ist die Zeit dafür reif, diese Ergebnisse an die Öffentlichkeit zu tragen 
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
-Da die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher dafür zu sorgen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliche Erkenntnisse aus ihnen ziehen darf und sich seinen Anteil an ihrem Nutzen sichert.
+Da die Bedeutung von Daten mit Personenbezug in der Gesellschaft weiter steigt, wird es immer dringlicher dafür zu sorgen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, aber auch persönliche Erkenntnisse aus ihnen ziehen darf und sich seinen Anteil an ihrem Nutzen sichert.
 
-Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen verschoben, welche die alleinige Macht besitzen, die personenbezogenen Daten zu sammeln, weiter zu geben und mit ihnen Entscheidungen zu treffen, während Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Dies betrachten wir als die Voraussetzung für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Grundsätze gilt:
+Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen verschoben, welche die alleinige Macht besitzen, die personenbezogenen Daten zu sammeln, zu verkaufen und mit ihnen Entscheidungen zu treffen, während Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Grundsätze, die wir in dieser Erklärung niederlegen, zielen darauf ab, das Gleichgewicht zurückzugewinnen auf auf eine menschenorientierte Vorstellung von personenbezogenen Daten hinzuwirken. Dies betrachten wir als die Voraussetzung für eine gerechte, nachhaltige und florierende digitale Gesellschaft. Für deren Grundsätze gilt:
 
-* Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen, aber auch Menschen und Organisationen;
+* Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen, aber auch zwischen Menschen und Organisationen;
 
-* Tatsächliche Selbstbestimmung. Nicht nur aufgrund gesetzlichem Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
+* Selbstbestimmung, die nicht nur durch den gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit den Menschen zu erreichen ist;
 
-* Maximieren des gesellschaftlichen Nutzens von personalen Daten durch faires Teilen zwischen Organisationen, Einzelnen und Gesellschaft
+* Maximieren des gesellschaftlichen Nutzens von Daten mit Personenbezug durch das faire Teilen zwischen Organisationen, Einzelpersonen und Gesellschaft
 
 ## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
