@@ -3,23 +3,23 @@ _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen,
 
 _In den vergangenen Jahren haben wir zusammen ein Netzwerk gebildet, in dem die Teilnehmer miteinander Erfahrungen austauschen, zusammen Projekte entwickeln, sich auf der MyData Konferenz treffen, und sich gemeinsam auf die Reise machen zu einem menschenzentrierten Ansatz für personale Daten._
 
-Nun ist die Zeit reif dafür, diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft zu belegen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, um danach zu handeln. Nehmen Sie teil an der Wende der personalen Daten. Nehmen Sie teil an der Gründung der MyData Bewegung._
+Nun ist die Zeit reif dafür, diese Arbeit an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, um danach zu handeln. Nehmen Sie teil an dem Wandel der personalen Daten. Nehmen Sie teil an der Gründung der MyData Bewegung._
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
 Weil die Bedeutung von personalen Daten in der Gesellschaft weiter steigt, wird es immer dringlicher dafür zu sorgen, dass jeder einzelne seine persönlichen Daten kennen und kontrollieren kann, sowie persönliches Erkenntnisse aus ihnen ziehen darf und sich seinen Anteil an ihrem Nutzen sichert.
 
-Heute ist das Gleichgewicht der Macht zugunsten von Organisationen massiv verschoben, welche die alleinige Macht besitzen, die personenbezogenen Daten zu sammeln, weiter zu geben und mit ihnen Entscheidungen zu treffen, wogegen Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Dies betrachten wir als die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Grundsätze gilt:
+Heute ist das Gleichgewicht der Macht massiv zugunsten von Organisationen verschoben, welche die alleinige Macht besitzen, die personenbezogenen Daten zu sammeln, weiter zu geben und mit ihnen Entscheidungen zu treffen, während Privatleute nur hoffen können, mit harter Anstrengung eine gewisse Kontrolle darüber zu erlangen, was mit ihren Daten geschieht. Die Anpassungen und Prinzipien, die wir in dieser Erklärung vorstellen, zielen darauf ab, das Gleichgewicht zurückzugewinnen für eine menschenorientierte Behandlung von personenbezogenen Daten. Dies betrachten wir als die Voraussetzungen für eine gerechte, nachhaltige und wohlhabende digitale Gesellschaft. Für deren Grundsätze gilt:
 
 * Vertrauen und Zuverlässigkeit auf der Grundlage einer ausgewogenen und fairen Beziehung zwischen den Menschen, aber auch Menschen und Organisationen;
 
-* Selbstbestimmung, tatsächliche, nicht nur durch gesetzlichen Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
+* Tatsächliche Selbstbestimmung. Nicht nur aufgrund gesetzlichem Schutz sondern auch durch proaktives Teilen der Datenmacht mit anderen;
 
 * Maximieren des gesellschaftlichen Nutzens von personalen Daten durch faires Teilen zwischen Organisationen, Einzelnen und Gesellschaft
 
 ## 1. MYDATA VERÄNDERUNGEN: WAS ANDERS WERDEN MUSS
 
-Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten unter den eigenen Bedingungen für ihre Zwecke und sicher zu teilen. Diesen menschenzentrierte Ansatz wollen wir bei unseren eigene Diensten anwenden und beherzigen, und Werkzeuge bauen und Wissen teilen damit andere genauso verfahren können.
+Das oberste Ziel ist es einzelne zu ermächtigen ihre persönlichen Daten sicher und unter den eigenen Bedingungen für ihre Zwecke zu teilen. Diesen menschenzentrierten Ansatz wollen wir bei unseren eigenen Diensten anwenden und beherzigen, und Werkzeuge bauen und Knowhow teilen, damit andere genauso verfahren können.
 
 ### 1.1. VON FORMELLEN ZU ANWENDBAREN RECHTE
 
@@ -27,11 +27,11 @@ In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datens
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obschon sie notwendig bleiben, wollen wir die üblichen Praktiken verändern hin zu einer Lage, in der jeder einzelne geschützt und ermächtigt ist, die Daten zu verwenden, die über ihn vorliegen. Als Beispiele für solche Verwendungen sind zu nennen die Vereinfachung von administrativem Papierkram, die Datenverarbeitung aus zahlreichen Quellen zur Stärkung des Eigenwissens, personalisierte KI-Assistenten, sowie die Entscheidungsfindung und das Datenteilen unter den eigenen Konditionen. 
+Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Gleichwohl sie erforderlich bleiben, wollen wir die üblichen Praktiken verändern hin zu einer Lage, in der jeder einzelne geschützt und ermächtigt ist, die Daten zu verwenden, die über ihn vorliegen. Als Beispiele für solche Verwendungen sind zu nennen: die Vereinfachung von administrativem Papierkram, die Datenverarbeitung aus zahlreichen Quellen zur Stärkung des Eigenwissens, personalisierte KI-Assistenten, sowie die Entscheidungsfindung und das Datenteilen unter den eigenen Konditionen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
-Die gegenwärtige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die personale Daten massenhaft sammeln und verarbeiten können. Jene Plattformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern tun das auch für die meisten anderen Unternehmen, die riskieren, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschehen soll, beabsichten wir einen echten Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale Engpässe, und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
+Die gegenwärtige Datenwirtschaft erzeugt Netzwerkeffekte zum Vorteil weniger Plattformen, die personale Daten massenhaft sammeln und verarbeiten können. Jene Plattformen schnüren nicht nur für die Wettbewerber Märkte zu, sondern tun das auch für die meisten anderen Unternehmen, die Gefahr laufen, den direkten Draht zum Kunden zu verlieren. Indem man jeden einzelnen bestimmen lässt, was mit seinen Daten geschehen soll, beabsichten wir einen echten Unbeschränkten Datenfluss - nach individueller freier Entscheidung, ohne globale Engpässe, und mit dem Ziel von Gleichgewicht, Fairness, Vielfalt und Wettbewerb in der digitalen Wirtschaft.
 
 ## 2. MYDATA ROLLEN: WER TUT WAS
 
@@ -41,7 +41,7 @@ _Bitte beachten: "**Rollen**" sind keine “**Akteure**” eine Einzelperson ode
 
 ### PERSON
 
-Ein Individuum, das die Verwendung von seinen personenbezogenen Daten verwaltet, zu eigenen Zwecken, und in Beziehung zu anderen Unternehmen, Diensten und Organisationen tritt.
+Ein Individuum, das zu eigenen Zwecken die Verwendung von seinen personenbezogenen Daten verwaltet und in Beziehung zu anderen Unternehmen, Diensten und Organisationen tritt.
 
 ### DATENQUELLE
 
@@ -85,13 +85,13 @@ Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächti
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
-Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnisse, und sich gegenüber Betroffenen verantworten.
+Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnissen, und sich gegenüber den Betroffenen verantworten.
 
-Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubtm im vornherein und wahrend und nach Verarbeitungsschritten überprüfbar, informierte Entscheidungen zu treffen . Wir wollen individen in die Lage versetzen zu verstehen **verstehen wie und welche Entscheidungen** auf Grundlage ihrer Daten getroffen wurden. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und nachzuvollziehen, was mit ihren Daten geschieht**, sie über mögliche Vorfälle zu benachrichtigen und algorithmische Entscheidungen zu hinterfragen.
+Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt im Vorfeld, während und nach den Verarbeitungsschritten überprüfbare, informierte Entscheidungen zu treffen. Wir wollen Individen in die Lage versetzen, zu verstehen **wie und auf welche Weise Entscheidungen** auf Grundlage ihrer Daten getroffen wurden. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und nachzuvollziehen, was mit ihren Daten geschieht**, sie über mögliche Vorfälle zu benachrichtigen und algorithmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITÄT
 
-Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen ist. Durch ständiges Anstreben von **gemeinsammen Geschäftspraktiken und technischen Standards** wollen wir darauf hinwirken.
+Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von Datenquellen zu datennutzenden Diensten zu verringern, während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen bleibt. Darauf wollen wir durch ständiges Anstreben von **gemeinsamen Geschäftspraktiken und technischen Standards** hinwirken.
 
 Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, offene APIs, Protokolle, Applikationen und Infrastruktur hinwirken, damit alle personalen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwickeln, bzw., falls erforderlich, zur Entwicklung von neuen beitragen. 
 
@@ -101,7 +101,7 @@ Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir
 
 * **Die Erklärung kommentieren**. Diese Erklärung wird sich über die Zeit auf Grundlage ihrer Ideen und praktischen Erfahrungen verändern. Eine erste Überarbeitung gibt es nach 6 Monaten.
 
-* **Die Erklärung verwenden** um eigene Projekte und Absichten zu unterstützen. Stellen sie ihr Vertrauensnetzwerk oder ihre Dienstekonditionen auf diese Grundlage. Verwenden sie die Erklärung für das Lobbying und das Überzeugung der Kunden, Partner und Interessengruppen etc.
+* **Die Erklärung verwenden** um eigene Projekte und Absichten zu unterstützen. Stellen sie ihr Vertrauensnetzwerk oder ihre Dienstekonditionen auf diese Grundlage. Verwenden sie die Erklärung für das Lobbying und zum Überzeugen der Kunden, Partner und Interessengruppen usf.
 
 ## VERWEISE
 
