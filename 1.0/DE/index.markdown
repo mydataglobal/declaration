@@ -27,7 +27,7 @@ In vielen Ländern geniessen Individuen seit Jahrzehnten den gesetzlichen Datens
 
 ### 1.2. VOM DATENSCHUTZ ZUR DATENERMÄCHTIGUNG
 
-Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie weiterhin erforderlich bleiben, wollen wir die üblichen Praktiken verändern dahingendend, dass jeder einzelne geschützt und ermächtigt ist, die Daten zu verwenden, die über ihn vorliegen. Als Beispiele für solche Verwendungen sind zu nennen: bürokratische Vereinfachung, die Datenverarbeitung aus zahlreichen Quellen zur Stärkung des Eigenwissens, personalisierte KI-Assistenten, sowie die Entscheidungsfindung und das Datenteilen unter den eigenen Konditionen. 
+Die Datenschutzregulierung und Unternehmensethik-Leitlinien sind auf den Schutz von Menschen vor dem Missbrauch ihrer persönlichen Daten durch Organisationen ausgerichtet. Obwohl sie weiterhin erforderlich bleiben, wollen wir die üblichen Praktiken dahingehend verändern, dass jeder einzelne geschützt und ermächtigt ist, die Daten zu verwenden, die über ihn vorliegen. Als Beispiele für solche Verwendungen sind zu nennen: bürokratische Vereinfachung, die Datenverarbeitung aus zahlreichen Quellen zur Stärkung des Eigenwissens, personalisierte KI-Assistenten, sowie die Entscheidungsfindung und das Datenteilen unter den eigenen Konditionen. 
 
 ### 1.3. VON ABGESCHOTTETEN ZU OFFENEN ÖKOSYSTEMEN
 
@@ -45,7 +45,7 @@ Ein Individuum, das zu eigenen Zwecken die Verwendung von seinen personenbezogen
 
 ### DATENQUELLE
 
-Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) zur Verwendung zugreifen möchten.
+Eine Datenquelle sammelt und verarbeitet personenbezogene Daten, auf die andere Rollen (einschließlich Personen) zur Nutzung zugreifen möchten.
 
 ### DATENVERWENDUNGSDIENSTE
 
@@ -53,55 +53,55 @@ Ein Datenverwendungsdienst kann ermächtigt werden, personale Daten aus einer od
 
 ### PERSONALER DATENVERARBEITER
 
-Ein Personaler Datenverarbeiter ermöglicht Personen den sicherem Zugang, die Verwaltung und Nutzung ihrer persönlichen Daten, aber auch den Fluss der persönlichen Daten zu und zwischen Datenquellen und Datenverwendenden Diensten zu kontrollieren. Individuen können ihr eigener Verarbeiter sein. In anderen Fällen verwenden Verarbeiter die Information nicht als solche, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
+Ein Personaler Datenverarbeiter ermöglicht Personen den sicheren Zugang, die Verwaltung und Nutzung ihrer persönlichen Daten, aber auch die Kontrolle des Flusses der persönlichen Daten an die und zwischen den Datenquellen und Datenverwendenden Diensten. Individuen können ihr eigener Verarbeiter sein. In anderen Fällen verwenden Verarbeiter die Information nicht als solche, sondern ermöglichen die Verbindung und das sichere Teilen von Daten zwischen den anderen Rollen im Ökosystem.
 
 ## 3. MYDATA PRINZIPIEN: WAS WIR ERREICHEN WOLLEN
 
 Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz für persönliche Daten zu realisieren, verpflichten wir uns auf das Hinwirken und Verteidigen folgender Grundsätze:
 
-### 3.1 VERWALTUNG PERSONALER DATEN MIT DEM MENSCH IM ZENTRUM  
+### 3.1 VERWALTUNG PERSONALER DATEN MIT DEM MENSCHEN IM ZENTRUM  
 
-Individuen sollen ermächtigt sein als Akteure in der Verwaltung von ihrem Privatleben online und offline. Sie sollten mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer den Zugriff auf Daten über sie hat und wie sie verwendet und geteilt werden.
+Individuen in der Verwaltung von ihrem Privatleben online und offline ermächtigte Akteure sein. Sie müssen mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer den Zugriff auf Daten über sie hat und wie sie verwendet und geteilt werden.
 
-Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als zukünftige Standardpraktiken in der Gestaltung von Applikationens. Organisationen sollen Personen ermöglichen **Datenschutzerklärungen zu verstehen** und zur Anwendung zu bringen. Wir wollen Individuen **dazu ermächtigt ihr Einverständnis für das Datenteilen zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Bildes darüber, für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Letztendlich wollen wie die Bedingungen für das Verwenden personaler Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als zukünftige Standardpraktiken in der Gestaltung von Applikationen. Organisationen sollen Personen ermöglichen **Datenschutzerklärungen zu verstehen** und zur Anwendung zu bringen. Wir wollen Individuen **dazu ermächtigt das Einverständnis für das Datenteilen zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Bildes darüber, für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Letztendlich wollen wie die Bedingungen für das Verwenden personaler Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
 
-### 3.2 DER EINZELNE ALS DER VERKNÜPFUNGSPUNKT
+### 3.2 DER EINZELNE ALS DER KNOTENPUNKT
 
 Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz ist auflösbar, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** geschieht.
 
-Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum Verknüpfungspunkt macht, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung leisten und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Anwachsen der zirkulierenden Daten kommt.
+Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum Knotenpunkt macht, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung leisten und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Anwachsen der zirkulierenden Daten kommt.
 
 ### 3.3 ERMÄCHTIGTE MENSCHEN
 
-In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten or Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **freie und autonome Akteure** gesehen werden mit der Möglichkeit sich eigenen Ziele zu setzen und zu verfolgen. Sie sollten **Akteursmacht und Initiative** besitzen.
+In einer daten-getriebenen Gesellschaft, wie in jeder Gesellschaft, sollen Einzelpersonen nicht nur als Konsumenten oder Nutzer von vorbestimmten Diensten und Applikationen betrachtet werden. Sie sollten als **freie und autonome Akteure** gesehen werden mit der Möglichkeit sich eigenen Ziele zu setzen und zu verfolgen. Sie sollten **Akteursmacht und Initiative** besitzen.
 
-Wir wollen, dass Individuen wie es ihnen beliebt **ihre Daten sicher verwalten** können. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen zu besitzen um ihrer personalen Daten in nützliche Informationen, in Wissen und in autonome Entscheidungen zu verwandeln. Dies sind, so glauben wir, die Vorbedingungen für faire und nutzenstiftende datenbasierte Beziehungen.
+Wir wollen, dass Individuen **ihre Daten sicher verwalten** können ganz wie es ihnen beliebt. Wir wollen Individuen helfen die Werkzeuge, Fertigkeiten und Hilfestellungen zu besitzen um ihrer personalen Daten in nützliche Informationen, in Wissen und in autonome Entscheidungen zu verwandeln. Dies sind, so glauben wir, die Vorbedingungen für faire und nutzenstiftende datenbasierte Beziehungen.
 
 ### 3.4 PORTIERBARKEIT: ZUGANG UND WIEDERVERWENDUNG
 
-Die Portierbarkeit von Personalen Daten, damit Individuen erlangen and Wiederverwerten ihrer Personalen Daten für ihre eigenen Zwecke und zwischen verschiedenen Diensten können, ist der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit ganz praktischen Mitteln verbunden sein.
+Der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen liegt in der Portierbarkeit von Personalen Daten, damit Individuen erlangen and Wiederverwerten ihrer Personalen Daten für ihre eigenen Zwecke und zwischen verschiedenen Diensten können. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit ganz praktischen Mitteln verbunden sein.
 
-Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personalen Daten ungeachtet der rechtlichen Grundlage (Vertrag, Zustimmung, berechtigtes Interesse usw.) der Datensammlung, mit möglichen Ausnahmen für angereicherte Daten.
+Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personalen Daten ungeachtet der rechtlichen Grundlage der Datensammlung (Vertrag, Zustimmung, berechtigtes Interesse usw.), mit möglichen Ausnahmen für angereicherte Daten.
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
-Die Organisationen, welche die Daten einer Person verwenden, sollten angeben, was sie mit ihnen machen und warum sie es tun, und sollten sich daran halten. Sie sollten die Verantwortung für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten übernehmen, einschließlich, aber nicht nur, Sicherheitsvorkommnissen, und sich gegenüber den Betroffenen verantworten.
+Die Organisationen, welche die Daten einer Person verwenden, sollen angeben, was sie mit ihnen machen und warum sie es tun, und sollten sich daran halten. Sie sollten für vorgesehene sowie unvorhergesehene Folgen der Aufbewahrung und Verwendung personaler Daten die Verantwortung übernehmen, einschließlich, aber nicht auschliesslich, Sicherheitsvorkommnisse, und sich gegenüber den Betroffenen verantworten.
 
-Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt im Vorfeld, während und nach den Verarbeitungsschritten überprüfbare, informierte Entscheidungen zu treffen. Wir wollen Individen in die Lage versetzen, zu verstehen **wie und auf welche Weise Entscheidungen** auf Grundlage ihrer Daten getroffen wurden. Einfach zu verwendende und sichere Kanäle for Individuen wollen wir schaffen, um zu **sehen und nachzuvollziehen, was mit ihren Daten geschieht**, sie über mögliche Vorfälle zu benachrichtigen und algorithmische Entscheidungen zu hinterfragen.
+Wir wollen sicherstellen, dass **Datenschutzerklärungen und -praktiken der Realität entsprechen**, auf eine Weise, die es den Menschen erlaubt im Vorfeld, während und nach den Verarbeitungsschritten überprüfbare, informierte Entscheidungen zu treffen. Wir wollen Individen in die Lage versetzen, zu verstehen **wie und auf welche Weise Entscheidungen** auf Grundlage ihrer Daten getroffen wurden. Einfach zu verwendende und sichere Kanäle für Individuen wollen wir schaffen, damit sie **sehen und nachvollziehen, was mit ihren Daten geschieht**, sie über mögliche Vorfälle zu informieren und algorithmische Entscheidungen zu hinterfragen.
 
 ### 3.6 INTEROPERABILITÄT
 
-Der Sinn von Interoperabilität ist Zersplitterung im Datenfluss von den Datenquellen zu den datennutzenden Diensten zu verringern, während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen bleibt. Darauf wollen wir durch kontinuierliches Anstreben von **gemeinsamen Geschäftspraktiken und technischen Standards** hinwirken.
+Der Sinn von Interoperabilität ist eine Zersplitterung im Datenfluss von den Datenquellen zu den datennutzenden Diensten zu verringern, während die Möglichkeit eines Daten-Lock-Ins ausgeschlossen bleibt. Darauf wollen wir durch kontinuierliches Anstreben von **gemeinsamen Geschäftspraktiken und technischen Standards** hinwirken.
 
 Für das Maximieren der positiven Wirkungen von offenen Ökosystemen, werden wir ständig auf Dateninteroperabilität, offene APIs, Protokolle, Applikationen und Infrastruktur hinwirken, damit alle personalen Daten ohne den Verlust der Nutzerkontrolle **portierbar und wiederverwertbar** sind. Wir werden mit gemeinsam akzeptieren Standards, Ontologien, Bibliotheken und Schemata entwickeln, bzw., falls erforderlich, zur Entwicklung von neuen beitragen. 
 
 ## 4. AKTIVITÄTEN: WAS JETZT WEITER PASSIEREN SOLL
 
-* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollten Sie trotzden unterschreiben!
+* **Die Erklärung unterschreiben**: als Privatperson und-oder als Unternehmen. Diese Erklärung richtet sich in die Zukunft: Falls Ihre Organisation noch nicht alles erreicht hat, aber sich in diese Richtung entwickeln möchte, sollten Sie trotzden unterschreiben!
 
 * **Die Erklärung kommentieren**. Diese Erklärung wird auf Grundlage Ihrer Ideen und praktischen Erfahrungen über die Zeit angepasst. Die erste Überarbeitung folgt nach 6 Monaten.
 
-* **Die Erklärung verwenden** zur Unterstützung eigener Projekte und Absichten. Stellen Sie Ihr Vertrauensnetzwerk oder Ihre Dienstekonditionen auf diese Grundlage. Verwenden Sie die Erklärung für das Lobbying und zum Überzeugen der Kunden, Partner und Interessengruppen usf.
+* **Die Erklärung verwenden** zur Unterstützung eigener Projekte und Absichten. Stellen Sie Ihr Vertrauensnetzwerk oder Ihre Dienstleistungsvereinbarungen auf diese Grundlage. Verwenden Sie die Erklärung für die Interessenvertretung und zum Überzeugen der Kunden, Partner und Interessengruppen usf.
 
 ## VERWEISE
 
