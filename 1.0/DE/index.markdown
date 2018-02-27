@@ -3,7 +3,7 @@ _Wir sind Unternehmer, engagierte Bürger, Wissenschaftler, eingetragene Firmen,
 
 _In den vergangenen Jahren haben wir zusammen einen Netzwerk gebildet, in dem die Teilnehmer Erfahrungen teilen, zusammen Projekte entwickeln, sich auf der MyData Konferenz treffen, und eine gemeinsame Anstrengung für einen menschenzentrierten Ansatz der persönlichen Daten unternehmen._
 
-Nun ist die Zeit dafür reif, diese Ergebnisse an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, damit wir danach handeln. Beteiligen Sie sich, das Paradigma der personalen Daten unzukehren. Nehmen Sie teil an der Gründung der MyData Bewegung._
+Nun ist die Zeit dafür reif, diese Ergebnisse an die Öffentlichkeit zu tragen und ihre möglichen Auswirkungen auf Menschen, Gesellschaft und Wirtschaft aufzuzeigen. Darum werden wir heute die uns leitenden Werte öffentlich bekennen und uns an all jene wenden, die sie teilen, damit wir danach handeln. Beteiligen Sie sich, das Paradigma der persönlichen Daten umzukehren. Nehmen Sie teil an der Gründung der MyData Bewegung._
 
 # ERKLÄRUNG DER MYDATA GRUNDSÄTZE
 
@@ -63,11 +63,11 @@ Um den notwendigen Wandel hin zu einem menschenbezogenen Ansatz für persönlich
 
 Individuen in der Verwaltung von ihrem Privatleben online und offline ermächtigte Akteure sein. Sie müssen mit den konkreten Mitteln ausgestattet sein um zu verstehen und wirksam zu kontrollieren, wer den Zugriff auf Daten über sie hat und wie sie verwendet und geteilt werden.
 
-Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als zukünftige Standardpraktiken in der Gestaltung von Applikationen. Organisationen sollen Personen ermöglichen **Datenschutzerklärungen zu verstehen** und zur Anwendung zu bringen. Wir wollen Individuen **dazu ermächtigt das Einverständnis für das Datenteilen zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Bildes darüber, für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Letztendlich wollen wie die Bedingungen für das Verwenden personaler Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
+Wir wollen Privatheit, Datensicherheit und Datensparsamkeit als zukünftige Standardpraktiken in der Gestaltung von Applikationen. Organisationen sollen Personen ermöglichen **Datenschutzerklärungen zu verstehen** und zur Anwendung zu bringen. Wir wollen Individuen **dazu ermächtigt das Einverständnis für das Datenteilen zu geben, zu verweigern und zu widerufen** auf der Grundlage eines klaren Bildes darüber, für was, wie und über welchen Zeitraum ihre Daten genutzt werden. Letztendlich wollen wie die Bedingungen für das Verwenden persönlicher Daten auf faire Weise zwischen Einzelpersonen und Organisationen verhandelbar machen.
 
 ### 3.2 DER EINZELNE ALS DER KNOTENPUNKT
 
-Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz ist auflösbar, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von personalen Daten** geschieht.
+Der Wert von personalen Daten wächst exponentiell zu ihrer Vielfalt; im gleichen Maße wachsen jedoch die Gefahren für die Privatsphäre. Dieser Gegensatz ist auflösbar, wenn die Personen zu den "Knoten" werden, an denen das **Verknüpfen von persönlichen Daten** geschieht.
 
 Indem man für Personen einen 360-Grad Blick auf ihre Daten möglich macht und sie zum Knotenpunkt macht, wollen wir eine neue Generation von Werkzeugen und Diensten ermöglichen, die tiefgreifende Personalisierung leisten und neues Wissen aus der Grundlage von Daten schöpfen, ohne dass es zu Beeinträchtigungen der Privatsphäre oder zum Anwachsen der zirkulierenden Daten kommt.
 
@@ -81,7 +81,7 @@ Wir wollen, dass Individuen **ihre Daten sicher verwalten** können ganz wie es 
 
 Der Schlüssel für den Wandel von Daten in Silos zu Daten als nutzbare Ressourcen liegt in der Portierbarkeit von Personalen Daten, damit Individuen erlangen and Wiederverwerten ihrer Personalen Daten für ihre eigenen Zwecke und zwischen verschiedenen Diensten können. Die Datenportabilität soll nicht nur ein reines gesetzliches Recht sondern mit ganz praktischen Mitteln verbunden sein.
 
-Wir wollen Individuen **zum Portieren ihre Personalen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personalen Daten ungeachtet der rechtlichen Grundlage der Datensammlung (Vertrag, Zustimmung, berechtigtes Interesse usw.), mit möglichen Ausnahmen für angereicherte Daten.
+Wir wollen Individuen **zum Portieren ihrer Persönlichen Daten effektiv** ermächtigen, sowohl durch das Herunterladen auf ihre eigenen Geräte als auch durch Übermittlung an andere Dienste. Wir wollen Datenquellen helfen diese Daten sicher und einfach, in einem strukturieren, allgemein üblichen und maschinenlesbaren Format verfügbar zu machen. Das gilt für alle personalen Daten ungeachtet der rechtlichen Grundlage der Datensammlung (Vertrag, Zustimmung, berechtigtes Interesse usw.), mit möglichen Ausnahmen für angereicherte Daten.
 
 ### 3.5 TRANSPARENZ UND VERANTWORTLICHKEIT
 
