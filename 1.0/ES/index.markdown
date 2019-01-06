@@ -35,7 +35,7 @@ Hoy la economía de los datos crea efectos en red que favorecen a unas pocas pla
 
 _Por favor tenga en cuenta: Los **"roles"** no son **"actores"**. Una misma persona u organización puede representar o actuar con uno o más roles a la vez._
 
-! [MYDATA ROLES] (image_0.png)
+![MYDATA ROLES](image_0.png)
 
 ### PERSONA
 
@@ -85,7 +85,9 @@ Queremos formar a las personas para que **porten sus datos personales de manera 
 
 Las organizaciones que utilizan los datos de una persona deben informar de qué hacen con ellos y por qué, y deben hacer lo que dicen. Deben asumir la responsabilidad de las consecuencias intencionadas, así como de las no intencionadas, de la posesión y el uso de datos personales, incluidos, entre otros, incidentes de seguridad, y permitir que las personas les exijan responsabilidades por ello.
 
-Queremos asegurarnos de que los **términos y políticas de privacidad reflejen la realidad**, de manera que las personas puedan tomar decisiones informadas de antemano y que estos términos y políticas puedan verificarse durante y después de las operaciones con los datos. Queremos facilitar que las personas **entiendan cómo y por qué se toman las decisiones** basadas en sus datos. Queremos crear canales seguros y fáciles de usar para que las personas **vean y controlen lo que sucede con sus datos**, para alertarlos sobre posibles problemas y para cuestionar las decisiones basadas en algoritmos.###  3.6 INTEROPERABILIDAD
+Queremos asegurarnos de que los **términos y políticas de privacidad reflejen la realidad**, de manera que las personas puedan tomar decisiones informadas de antemano y que estos términos y políticas puedan verificarse durante y después de las operaciones con los datos. Queremos facilitar que las personas **entiendan cómo y por qué se toman las decisiones** basadas en sus datos. Queremos crear canales seguros y fáciles de usar para que las personas **vean y controlen lo que sucede con sus datos**, para alertarlos sobre posibles problemas y para cuestionar las decisiones basadas en algoritmos.
+
+###  3.6 INTEROPERABILIDAD
 
 El propósito de la interoperabilidad es disminuir la fricción en el flujo de datos desde las fuentes de datos hasta los servicios que usan esos datos, al tiempo que se eliminan las posibilidades de bloqueo de datos. Se debe lograr conduciendo continuamente hacia **prácticas comerciales comunes y estándares técnicos**.
 
