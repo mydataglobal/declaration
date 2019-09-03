@@ -6,17 +6,17 @@ _Τα τελευταία χρόνια δημιουργήσαμε μαζί ένα
 
 _Είναι πλέον καιρός να μοιραστούμε αυτό το έργο με τον κόσμο και να αποδείξουμε τον πιθανό αντίκτυπό του σε επίπεδο ατόμου, κοινωνίας και οικονομίας. Σήμερα, πιστεύουμε ότι είναι καιρός να υποστηρίξουμε δημοσίως τις αξίες που μας οδηγούν - και να καλέσουμε όσους μοιράζονται αυτές τις αξίες για να ενεργήσουμε μαζί. Ακολουθήστε μας ανατρέποντας το τρέχον πρότυπο των προσωπικών δεδομένων. Ακολουθήστε μας στη δημιουργία του κινήματος MyData._
 
-# DECLARATION OF MYDATA PRINCIPLES
+# ΔΙΑΚΥΡΗΞΗ ΤΩΝ ΑΞΙΩΝ ΤΟΥ MYDATA
 
-As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of their benefits.
+Δεδομένου ότι η σημασία των προσωπικών δεδομένων στην κοινωνία συνεχίζει να επεκτείνεται, καθίσταται ολοένα και πιο επείγον να διασφαλιστεί ότι τα άτομα είναι σε θέση να γνωρίζουν και να έχουν τον έλεγχο των προσωπικών τους δεδομένων, αλλά και να αποκτούν προσωπική γνώση από τον συνδυασμό των δεδομένων αυτών και να διεκδικούν μερίδιο από τα οφέλη αυτής της διαδικασίας.
 
-Today, the balance of power is massively tilted towards organisations, who alone have the power to collect, trade and make decisions based on personal data, whereas individuals can only hope, if they work hard, to gain some control over what happens with their data. The shifts and principles that we lay out in this Declaration aim at restoring balance and moving towards a human-centric vision of personal data. We believe they are the conditions for a just, sustainable and prosperous digital society  whose foundations are:
+Σήμερα, η ισορροπία της δύναμης γέρνει ξεκάθαρα προς το μέρος των οργανισμών εκείνων οι οποίοι έχουν τη δύναμη να συλλέγουν, να εμπορεύονται και να λαμβάνουν αποφάσεις με βάση δεδομένα προσωπικού χαρακτήρα, ενώ τα άτομα μπορούν μόνο να ελπίζουν, αν δουλέψουν σκληρά, να αποκτήσουν κάποιο έλεγχο για το τι συμβαίνει με τα δεδομένα τους . Οι μετατοπίσεις και οι αρχές που διατυπώνουμε σε αυτή τη Διακήρυξη αποσκοπούν στην αποκατάσταση της ισορροπίας και στην κατεύθυνση ενός ανθρωποκεντρικού οράματος για τα προσωπικά δεδομένα. Πιστεύουμε ότι αποτελούν τις προϋποθέσεις για μια δίκαιη, βιώσιμη και ευημερούσα ψηφιακή κοινωνία των οποίων τα θεμέλια είναι:
 
-* Trust and confidence, that rest on balanced and fair relationships between people, as well as between people and organisations;
+* Εμπιστοσύνη και αυτοπεποίθηση, που βασίζονται σε ισορροπημένες και δίκαιες σχέσεις μεταξύ των ανθρώπων, αλλά και μεταξύ ανθρώπων και οργανισμών.
 
-* Self-determination, that is achieved, not only by legal protection, but also by proactive actions to share the power of data with individuals;
+* Αυτοδιάθεση, που επιτυγχάνεται, όχι μόνο με νομική προστασία, αλλά και με προληπτικές ενέργειες για να μοιραστεί η δύναμη που προέρχεται από τα δεδομένα με τα άτομα.
 
-* Maximising the collective benefits of personal data, by fairly sharing them between organisations, individuals and society.
+* Μεγιστοποίηση των συλλογικών οφελών των προσωπικών δεδομένων, με δίκαιο διαμοιρασμό τους μεταξύ των οργανισμών, των ατόμων και της κοινωνίας.
 
 ## 1. MYDATA SHIFTS: WHAT NEEDS TO CHANGE
 
