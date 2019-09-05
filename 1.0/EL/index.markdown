@@ -18,43 +18,45 @@ _Είναι πλέον καιρός να μοιραστούμε αυτό το έ
 
 * Μεγιστοποίηση των συλλογικών οφελών των προσωπικών δεδομένων, με δίκαιο διαμοιρασμό τους μεταξύ των οργανισμών, των ατόμων και της κοινωνίας.
 
-## 1. MYDATA SHIFTS: WHAT NEEDS TO CHANGE
+## 1. MYDATA ΑΛΛΑΓΕΣ: ΤΙ ΧΡΕΙΑΖΕΤΑΙ ΝΑ ΑΛΛΑΞΕΙ
 
-Our overriding goal is to empower individuals to use their personal data to their own ends, and to securely share them under their own terms. We will apply and practice this human-centric approach to our own services, and we will build tools and share knowledge to help others do the same.
+Ο πρωταρχικός στόχος μας είναι να ενδυναμώσουμε τα άτομα να χρησιμοποιούν τα προσωπικά τους δεδομένα προς τους δικούς τους σκοπούς και να τα μοιράζονται με ασφάλεια με τους δικούς τους όρους. Θα εφαρμόσουμε και θα εφαρμόσουμε αυτή την ανθρωποκεντρική προσέγγιση στις δικές μας υπηρεσίες και θα δημιουργήσουμε εργαλεία και θα μοιραστούμε τη γνώση για να βοηθήσουμε τους άλλους να κάνουν το ίδιο.
 
-### 1.1. FROM FORMAL TO ACTIONABLE RIGHTS
+### 1.1. ΑΠΟ ΤΑ ΤΥΠΙΚΑ ΣΤΑ ΕΦΑΡΜΟΣΙΜΑ ΔΙΚΑΙΩΜΑΤΑ
 
 In many countries, individuals have enjoyed legal data protection for decades, yet their rights have remained mostly formal: little known, hard to enforce, and often obscured by corporate practices. We want true transparency and truly informed consent to become the new normal for when people and organisations interact. We intend access and redress, portability, and the right to be forgotten, to become "one-click rights": rights that are as simple and efficient to use as today’s and tomorrow’s best online services.
 
-### 1.2. FROM DATA PROTECTION TO DATA EMPOWERMENT
+Σε πολλές χώρες, στους ιδιώτες παρέχονταν νομική προστασία σχετικά με τα δεδομένα τους, ωστόσο τα δικαιώματά τους παρέμεναν ως επί το πλείστον στα τυπικά: δεν ήταν ευρέως γνωστά, επιβάλλονταν δύσκολα και συχνά συγκαλήπτονταν από τις εταιρικές πρακτικές. Θέλουμε η αληθινή διαφάνεια και πραγματική, ενσυνήδητη συναίνεση να γίνει το νέο στάνταρ για το πότε οι άνθρωποι και οι οργανισμοί αλληλεπιδρούν μεταξύ τους. Προσβλέπουμε στην πρόσβαση και την αποκατάσταση, τη δυνατότητα μεταφοράς και το δικαίωμα στη λήθη, να γίνουν δικαιώματα στα οποία θα έχουμε πρόσβαση με ένα κλικ: δικαιώματα που θα είναι τόσο απλά και αποτελεσματικά ώστε να χρησιμοποιηθούν ως οι καλύτερες ηλεκτρονικές υπηρεσίες του σήμερα και του αύριο.
 
-Data protection regulation and corporate ethics codes are designed to protect people from abuse and misuse of their personal data by organisations. While these will remain necessary, we intend to change common practices towards a situation where individuals are both protected and empowered to use the data that organisations hold about them. Examples of such uses include simplifying administrative paperwork, processing data from multiple sources to improve one’s self-knowledge, personalised AI assistants, decision-making, and data sharing under the individual’s own terms.
+### 1.2. ΑΠΟ ΤΗΝ ΠΡΟΣΤΑΣΙΑ ΔΕΔΟΜΕΝΩΝ ΣΤΗΝ ΕΝΔΥΝΑΜΩΣΗ ΔΕΔΟΜΕΝΩΝ
 
-### 1.3. FROM CLOSED TO OPEN ECOSYSTEMS
+Οι κανονισμοί για την προστασία των δεδομένων και οι κώδικες εταιρικής δεοντολογίας έχουν σχεδιαστεί για την προστασία των ατόμων από την κατάχρηση και την κατάχρηση των προσωπικών τους δεδομένων από τους οργανισμούς. Παρόλο που αυτά παραμένουν απαραίτητα, σκοπεύουμε να αλλάξουμε τις κοινές πρακτικές προς μια κατάσταση στην οποία τα άτομα προστατεύονται και είναι εξουσιοδοτημένα να χρησιμοποιούν τα δεδομένα που διαθέτουν οι οργανώσεις γι 'αυτά. Παραδείγματα τέτοιων χρήσεων περιλαμβάνουν την απλούστευση της διοικητικής γραφειοκρατίας, την επεξεργασία δεδομένων από πολλαπλές πηγές για τη βελτίωση της αυτογνωσίας του ατόμου, των εξατομικευμένων βοηθών τεχνητής νοημοσύνη (AI), της λήψης αποφάσεων και της ανταλλαγής δεδομένων υπό τους όρους του ατόμου.
 
-Today’s data economy creates network effects favoring a few platforms able to collect and process the largest masses of personal data. These platforms are locking up markets, not just for their competitors, but also for most businesses who risk losing direct access to their customers. By letting individuals control what happens to their data, we intend to create a truly free flow of data - freely decided by individuals, free from global choke points - and to create balance, fairness, diversity and competition in the digital economy.
+### 1.3. ΑΠΟ ΤΑ ΚΛΕΙΣΤΑ ΣΤΑ ΑΝΟΙΚΤΑ ΟΙΚΟΣΥΣΤΗΜΑΤΑ
 
-## 2. MYDATA ROLES: WHO DOES WHAT
+Η σημερινή οικονομία δεδομένων δημιουργεί διαδικτυακές καταστάσεις που ευνοούν εκείνες τις πλατφόρμες ικανές να συλλέγουν και να επεξεργάζονται τις μεγαλύτερες μάζες προσωπικών δεδομένων. Αυτές οι πλατφόρμες κλειδώνουν συγκεκριμένες αγορές, όχι μόνο για τους ανταγωνιστές τους αλλά και για τις περισσότερες επιχειρήσεις που κινδυνεύουν να χάσουν την άμεση πρόσβαση στους πελάτες τους. Αφήνοντας τα άτομα να ελέγξουν τι συμβαίνει με τα δεδομένα τους, προσβλέπουμε στο να δημιουργήσουμε μια πραγματικά ελεύθερη ροή δεδομένων - ελεύθερα αποφασισμένη από τα άτομα, απαλλαγμένη από σημεία στραγγαλισμού σε παγκόσμιο επίπεδο - και να δημιουργήσουμε ισορροπία, δικαιοσύνη, διαφορετικότητα και ανταγωνισμό στην ψηφιακή οικονομία.
 
-_Please note: "**Roles**" are not “**Actors**” an individual or organisation may fulfill one or more roles at once._
+## 2. ΡΟΛΟΙ MYDATA: ΠΟΙΟΣ ΚΑΝΕΙ ΤΙ;
+
+_Σημειώστε ότι: Οι "**Ρόλοι**" δεν ισοδυναμούν με τους “**Παίκτες**” ένα άτομο ή ένας οργανισμός μπορούν να κατέχουν έναν ή περισσότερους ρόλους ταυτόχρονα._
 
 ![MYDATA ROLES](image_0.png)
 
-### PERSON
+### ΑΤΟΜΟ
 
-An individual that manages the use of their own personal data, for their own purposes, and maintains relationships with other individuals, services or organisations.
+Ένας ιδιώτης που διαχειρίζεται τη χρήση των δικών του προσωπικών δεδομένων, για δικούς του σκοπούς, και διατηρεί σχέσεις με άλλα άτομα, υπηρεσίες ή οργανισμούς.
 
-### DATA SOURCE
+### ΠΗΓΗ ΔΕΔΟΜΕΝΩΝ
 
-A data source collects and processes personal data which the other roles (including Persons) may wish to access and use.
+Μια πηγή δεδομένων συλλέγει και επεξεργάζεται δεδομένα προσωπικού χαρακτήρα που ενδέχεται να επιθυμούν να έχουν πρόσβαση και να χρησιμοποιούν οι άλλοι ρόλοι (συμπεριλαμβανομένων των ατόμων).
 
-### DATA USING SERVICE
+### ΥΠΗΡΕΣΙΑ ΠΟΥ ΚΑΝΕΙ ΧΡΗΣΗ ΔΕΔΟΜΕΝΩΝ
 
-A data using service can be authorised to fetch and use personal data from one or more data sources.
+Μια υπηρεσία που κάνει χρήση δεδομένων μπορεί να εξουσιοδοτηθεί για τη λήψη και τη χρήση προσωπικών δεδομένων από μία ή περισσότερες πηγές δεδομένων.
 
-### PERSONAL DATA OPERATOR
+### ΧΕΙΡΙΣΤΗΣ ΠΡΟΣΩΠΙΚΩΝ ΔΕΔΟΜΕΝΩΝ
 
-A Personal Data Operator enables individuals to securely access, manage and use their personal data, as well as to control the flow of personal data with, and between, data sources and data using services. Individuals can be their own operator. In other cases, operators are not using the information itself, but enabling connectivity and secure sharing of data between the other roles in the ecosystem.
+Ο Χειριστής Προσωπικών Δεδομένων επιτρέπει σε ιδιώτες να έχουν πρόσβαση, να διαχειρίζονται και να χρησιμοποιούν τα προσωπικά τους δεδομένα, καθώς και να ελέγχουν τη ροή δεδομένων προσωπικού χαρακτήρα με και μεταξύ πηγών δεδομένων και δεδομένων που χρησιμοποιούν υπηρεσίες. Οι ιδιώτες μπορούν να είναι χειριστές του εαυτού τους. Σε άλλες περιπτώσεις, οι φορείς εκμετάλλευσης δεν χρησιμοποιούν τις ίδιες τις πληροφορίες, αλλά επιτρέπουν τη συνδεσιμότητα και την ασφαλή ανταλλαγή δεδομένων μεταξύ άλλων ρόλων στο οικοσύστημα.
 
 ## 3. MYDATA PRINCIPLES: WHAT WE WANT TO ACHIEVE
 
@@ -104,9 +106,9 @@ In order to maximise the positive effects of open ecosystems, we will continuous
 
 * **Use the Declaration** to further your own projects and intentions. Base your trust framework, or your terms of services, on it. Use it to lobby and convince clients, partners, stakeholders etc.
 
-## REFERENCES
+## ΠΗΓΕΣ
 
-This Declaration of Principles draws upon many sources of inspiration, the most significant ones being:
+Αυτή η Διακύρηξη των Αρχών αντλεί έμπνευση από διάφορες πηγές, με σημαντικότερες τις ακόλουθες:
 
 * The [MyData Principles](https://github.com/okffi/mydata) (Open Knowledge Finland)
 
