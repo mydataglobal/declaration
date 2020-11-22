@@ -37,7 +37,7 @@ L'économie des données d'aujourd'hui crée des effets de réseau favorisant qu
 
 Note : "**Rôles**" n'est pas "**Acteurs**", une personne ou une organisation peut remplir un ou plusieurs rôles à la fois.
 
-[MYDATA ROLES](image_0.png)
+![MYDATA ROLES](image_0.png)
 
 ### PERSONNE
 
