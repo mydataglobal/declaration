@@ -16,3 +16,7 @@ MyData Global n'a que des opinions sur les questions définies par notre [object
 **Responsabilité** | Nous respectons les accords conclus avec les membres ainsi qu'avec les tiers et assumons la responsabilité commune des succès comme des échecs. | Même pour les efforts volontaires, nos réalisations communes dépendent de la responsabilité mutuelle. Nous nous engageons à partager avec les parties concernées, lorsque nous ne sommes pas en mesure de répondre aux valeurs et aux attentes. |
 
 Ces principes directeurs ont été approuvés lors de l'assemblée générale de l'association le 15 novembre 2018.
+
+## Republications
+* https://medium.com/responsibility-digital/mydata-declaration-418f9b54e2bf
+* TK...
