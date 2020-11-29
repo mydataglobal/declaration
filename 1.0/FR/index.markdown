@@ -1,7 +1,7 @@
 ---
 _Nous sommes des entrepreneurs, des militants, des universitaires, des sociétés cotées en bourse, des organismes publics et des promoteurs. Depuis des années, nous utilisons des mots différents pour ce que nous faisons - MyData, Self Data, VRM (Vendor Relationship Management), Internet of Me, PIMS (Personal Information Management Services) etc, **tout en partageant un objectif commun : donner aux individus les moyens d'utiliser leurs données personnelles, les aidant ainsi, avec leurs communautés, à développer leurs connaissances, à prendre des décisions éclairées et à interagir plus consciemment et plus efficacement entre eux ainsi qu'avec les organisations**_
 
-_. Ensemble, ces dernières années, nous avons formé un réseau dont les participants partagent leur expérience, développent des projets communs, se rencontrent à la conférence MyData et participent à des efforts collectifs en vue d'une approche des données personnelles centrée sur l'être humain._
+_Ensemble, ces dernières années, nous avons formé un réseau dont les participants partagent leur expérience, développent des projets communs, se rencontrent à la conférence MyData et participent à des efforts collectifs en vue d'une approche des données personnelles centrée sur l'être humain._
 
 _Il est maintenant temps de faire connaître ce travail dans le monde entier et de prouver son impact potentiel sur les individus, la société et l'économie. Aujourd'hui, nous pensons qu'il est temps d'affirmer publiquement les valeurs qui nous animent - et d'appeler ceux qui partagent ces valeurs à agir en conséquence. Joignez-vous à nous pour renverser le paradigme des données personnelles. Rejoignez-nous pour créer le mouvement MyData._
 
@@ -9,9 +9,9 @@ _Il est maintenant temps de faire connaître ce travail dans le monde entier et 
 
 L'importance des données personnelles dans la société ne cessant de croître, il devient de plus en plus urgent de s'assurer que les individus sont en mesure de connaître et de contrôler leurs données personnelles, mais aussi d'en tirer des connaissances personnelles et de réclamer leur part de bénéfices.
 
-Aujourd'hui, le rapport de force penche massivement en faveur des organisations, qui seules ont le pouvoir de collecter, d'échanger et de prendre des décisions fondées sur des données à caractère personnel, alors que les individus ne peuvent espérer, s'ils travaillent dur, obtenir un certain contrôle sur ce qui se passe avec leurs données. Les changements et les principes que nous exposons dans cette déclaration visent à rétablir l'équilibre et à s'orienter vers une vision des données à caractère personnel centrée sur l'être humain. Nous pensons qu'ils sont les conditions d'une société numérique juste, durable et prospère dont les fondements sont les suivants
+Aujourd'hui, le rapport de force penche massivement en faveur des organisations, qui seules ont le pouvoir de collecter, d'échanger et de prendre des décisions fondées sur des données à caractère personnel, alors que les individus peuvent espérer, avec un effort important, obtenir un contrôle limité sur ce qui se passe avec leurs données. Les changements et les principes que nous exposons dans cette déclaration visent à rétablir l'équilibre et à s'orienter vers une vision des données à caractère personnel centrée sur l'être humain. Nous pensons qu'ils sont les conditions d'une société numérique juste, durable et prospère dont les fondements sont les suivants :
 
-* La confiance, qui repose sur des relations équilibrées et équitables entre les personnes, ainsi qu'entre les personnes et les organisations ;
+* La confiance et la certitude, qui reposent sur des relations équilibrées et équitables entre les personnes, ainsi qu'entre les personnes et les organisations ;
 
 * L'autodétermination, qui est atteinte non seulement par la protection juridique, mais aussi par des actions proactives visant à partager le pouvoir des données avec les individus ;
 
@@ -43,11 +43,11 @@ Note : "**Rôles**" n'est pas "**Acteurs**", une personne ou une organisation pe
 
 Une personne qui gère l'utilisation de ses propres données personnelles, à ses propres fins, et qui entretient des relations avec d'autres personnes, services ou organisations.
 
-### SOURCE DE DONNÉES
+### SOURCE DE DONNÉES (Data Source)
 
 Une source de données collecte et traite les données personnelles auxquelles les autres rôles (y compris les Personnes) peuvent souhaiter accéder et utiliser.
 
-### DONNÉES UTILISANT LE SERVICE
+### DONNÉES UTILISÉE PAR UN SERVICE (Data Service)
 
 Un service d'utilisation de données peut être autorisé à extraire et à utiliser des données personnelles à partir d'une ou plusieurs sources de données.
 
@@ -73,21 +73,21 @@ En permettant aux individus d'avoir une vision à 360 degrés de leurs données 
 
 ### 3.3 AUTONOMISATION DE L'INDIVIDU
 
-Dans une société fondée sur les données, comme dans toute société, les individus ne doivent pas être considérés uniquement comme des clients ou des utilisateurs de services et d'applications prédéfinis. Ils doivent être considérés comme des **agents libres et autonomes**, capables de se fixer et de poursuivre leurs propres objectifs. Ils devraient avoir **une agence et de l'initiative**.
+Dans une société fondée sur les données, comme dans toute société, les individus ne doivent pas être considérés uniquement comme des clients ou des utilisateurs de services et d'applications prédéfinis. Ils doivent être considérés comme des **agents libres et autonomes**, capables de se fixer et de poursuivre leurs propres objectifs. Ils devraient pouvoir **initier et organiser**.
 
 Nous voulons que les individus soient capables de **gérer en toute sécurité leurs données personnelles** de la manière qu'ils préfèrent. Nous entendons aider les individus à disposer des outils, des compétences et de l'assistance nécessaires pour transformer leurs données personnelles en informations utiles, en connaissances et en décisions autonomes. Nous pensons que ce sont les conditions préalables à des relations équitables et bénéfiques fondées sur les données.
 
 ### 3.4 PORTABILITÉ : ACCÈS ET RÉUTILISATION
 
-La portabilité des données personnelles, qui permet aux individus d'obtenir et de réutiliser leurs données personnelles pour leurs propres besoins et à travers différents services, est la clé pour passer de données en silos fermés à des données qui deviennent des ressources réutilisables. La portabilité des données ne devrait pas être un simple droit légal, mais être associée à des moyens pratiques.
+La portabilité des données personnelles, qui permet aux individus d'obtenir et de réutiliser leurs données personnelles pour leurs propres besoins et à travers différents services, est la clef pour passer de données en silos fermés à des données qui deviennent des ressources réutilisables. La portabilité des données ne devrait pas être un simple droit légal, mais être associée à des moyens pratiques.
 
-Nous voulons donner aux individus les moyens de **porter efficacement leurs données personnelles**, à la fois en les téléchargeant sur leurs appareils personnels et en les transmettant à d'autres services. Nous entendons aider les sources de données à rendre ces données disponibles de manière sûre et facile, dans un format structuré, communément utilisé et lisible par les machines. Cela s'applique à toutes les données personnelles, quelle que soit la base juridique (contrat, consentement, intérêt légitime, etc.) de la collecte de données, avec des exceptions possibles pour les données enrichies.
+Nous voulons donner aux individus les moyens de **maîtriser efficacement leurs données personnelles**, à la fois en les téléchargeant sur leurs appareils personnels et en les transmettant à d'autres services. Nous entendons aider les sources de données à rendre ces données disponibles de manière sûre et facile, dans un format structuré, communément utilisé et lisible par les machines. Cela s'applique à toutes les données personnelles, quelle que soit la base juridique (contrat, consentement, intérêt légitime, etc.) de la collecte de données, avec des exceptions possibles pour les données enrichies.
 
 ### 3.5 TRANSPARENCE ET RESPONSABILITÉ
 
 Les organisations qui utilisent les données d'une personne devraient dire ce qu'elles en font et pourquoi, et devraient faire ce qu'elles disent. Elles doivent assumer la responsabilité des conséquences intentionnelles et non intentionnelles de la détention et de l'utilisation de données à caractère personnel, y compris, mais sans s'y limiter, les incidents de sécurité, et permettre aux personnes de les appeler à cette responsabilité.
 
-Nous voulons nous assurer que les termes et les politiques de **privacy reflètent la réalité**, de manière à ce que les personnes puissent faire des choix éclairés avant et pendant les opérations et après celles-ci. Nous voulons permettre aux individus de **comprendre comment et pourquoi les décisions** basées sur leurs données sont prises. Nous voulons créer des canaux faciles à utiliser et sûrs permettant aux individus de **voir et de contrôler ce qui arrive à leurs données**, de les alerter des problèmes éventuels et de contester les décisions prises sur la base d'algorithmes.
+Nous voulons nous assurer que les termes et les politiques de **"vie privée" (privacy) reflètent la réalité**, de manière à ce que les personnes puissent faire des choix éclairés avant, pendant les opérations et après celles-ci. Nous voulons permettre aux individus de **comprendre comment et pourquoi des décisions** basées sur leurs données sont prises. Nous voulons créer des canaux faciles à utiliser et sûrs permettant aux individus de **voir et de contrôler ce qui arrive à leurs données**, de les alerter des problèmes éventuels et de contester les décisions prises sur la base d'algorithmes.
 
 ### 3.6 INTEROPÉRABILITÉ
 
@@ -105,7 +105,7 @@ Afin de maximiser les effets positifs des écosystèmes ouverts, nous travailler
 
 ## RÉFÉRENCES
 
-Cette déclaration de principes s'inspire de nombreuses sources, dont les plus importantes sont
+Cette déclaration de principes s'inspire de nombreuses sources, dont les plus importantes sont :
 
 * Les [Principes MyData] (https://github.com/okffi/mydata) (Open Knowledge Finland)
 
