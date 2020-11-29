@@ -1,5 +1,5 @@
 Traduction de la source: https://github.com/mydataglobal/bylaws/blob/master/README.md
-* Ce document peut être utilisé pour établir des statuts d'association en Suisse, mais cela représente uniquement une version traduite des statuts de l'instution mère.
+* Ce document peut être utilisé pour établir des statuts d'association en Suisse, mais cela représente uniquement une version traduite des statuts de l'institution mère.
 * En Suisse, les statuts d'association ou de fondation, doivent suivrent les directives de la loi du code civil suisse article 60 et suivants.
 
 # Statuts de MyData Global
