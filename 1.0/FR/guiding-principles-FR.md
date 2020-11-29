@@ -4,7 +4,7 @@ L'organisation MyData Global et son réseau international fonctionnent sur la ba
 
 Nous reconnaissons qu'en tant qu'êtres humains, nos actions peuvent ne pas toujours s'aligner sur les principes convenus ; dans cet esprit, nous nous engageons à répondre à toutes les préoccupations soulevées concernant les lacunes ou les violations de nos principes de manière ouverte et rapide et à créer un environnement de pratique et d'apprentissage continu.
 
-MyData Global n'a que des opinions sur les questions définies par notre [objectif] (https://mydata.org/bylaws) et notre [déclaration] (https://mydata.org/declaration/).
+MyData Global n'a que des opinions sur les questions définies par notre [objectif](https://mydata.org/bylaws) et notre [déclaration](https://mydata.org/declaration/).
 
 || Ce que cela signifie pour nous en tant qu'ORGANISATION | Ce que cela signifie pour nous en tant que membres et participants de la COMMUNAUTÉ
 | ------------- | ------------------------------------------ |----------------------------------------------------------------- |
