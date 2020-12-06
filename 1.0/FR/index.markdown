@@ -47,7 +47,7 @@ Une personne qui gère l'utilisation de ses propres données personnelles, à se
 
 Une source de données collecte et traite les données personnelles auxquelles les autres rôles (y compris les Personnes) peuvent souhaiter accéder et utiliser.
 
-### DONNÉES UTILISÉE PAR UN SERVICE (Data Service)
+### DONNÉES UTILISÉES PAR UN SERVICE (Data Service)
 
 Un service d'utilisation de données peut être autorisé à extraire et à utiliser des données personnelles à partir d'une ou plusieurs sources de données.
 
